@@ -28,11 +28,12 @@ namespace maintenance
     {
         private static IniFile ini = new IniFile(AppDomain.CurrentDomain.BaseDirectory + @"\config.ini");
         public static string cnn = ini.IniReadValue("appSettings", "cnn");
-        public static string UploadDir = ini.IniReadValue("appSettings", "UploadDir");    
+        public static string UploadDir = ini.IniReadValue("appSettings", "UploadDir");
         //connection string
         //i added this comment for test Git
         //i added this comment for test Git 2    
         //i added this comment for test Git 3
+        //i added this comment for test Git 4
         private Thread Thread;
         private static int UpdateTime;
         private bool ConnectDataBase = true;

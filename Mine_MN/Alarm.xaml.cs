@@ -30,7 +30,8 @@ namespace maintenance
         public static string cnn = ini.IniReadValue("appSettings", "cnn");
         public static string UploadDir = ini.IniReadValue("appSettings", "UploadDir");    
         //connection string
-        //i added this comment for test Git    
+        //i added this comment for test Git
+        //i added this comment for test Git 2    
         private Thread Thread;
         private static int UpdateTime;
         private bool ConnectDataBase = true;

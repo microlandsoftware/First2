@@ -1,0 +1,145 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" xmlns:Custom="http://schemas.microsoft.com/wpf/2008/toolkit" x:Class="maintenance.RegisterExchangePart"
+        Title="ثبت خرابی قطعه" Height="629.761"  Width="804.537" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FFE1E9F1" Loaded="Window_Loaded" Closed="Window_Closed" Closing="Window_Closing">
+    <Window.Resources>
+        <Style x:Key="FocusVisualStyle">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="-2" StrokeThickness="1" Stroke="Red"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+
+    <Grid Margin="0,-1,0,1">
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="693,29,0,0" TextAlignment="Right" TextWrapping="Wrap" Text=":نام قطعه" VerticalAlignment="Top" Width="54" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16"/>
+        <TextBlock x:Name="Text_PartName" HorizontalAlignment="Left" Height="28" TextAlignment="Right" Margin="530,29,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="161" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16" RenderTransformOrigin="1.267,1.571"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="644,82,0,0" TextAlignment="Right" TextWrapping="Wrap" Text=":تاریخ خرابی" VerticalAlignment="Top" Width="83" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="238,82,0,0" TextAlignment="Right" TextWrapping="Wrap" Text=":ساعت خرابی" VerticalAlignment="Top" Width="83" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16"/>
+
+        <WindowsFormsHost  Margin="142,82,568,490" Height="30" FontWeight="Bold" FontFamily="B Nazanin" FontSize="16">
+            <wf:MaskedTextBox  x:Name="Text_BadTime" Mask="99:99:99"/>
+        </WindowsFormsHost>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="644,150,0,0" TextAlignment="Right" TextWrapping="Wrap" Text=":تاریخ تعمیر" VerticalAlignment="Top" Width="83" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="238,153,0,0" TextAlignment="Right" TextWrapping="Wrap" Text=":ساعت تعمیر" VerticalAlignment="Top" Width="83" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16"/>
+
+        <WindowsFormsHost  Margin="141,149,569,423" Height="30" FontWeight="Bold" FontFamily="B Nazanin" FontSize="16">
+            <wf:MaskedTextBox  x:Name="Text_DoTime" Mask="99:99:99"/>
+        </WindowsFormsHost>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="209,214,0,0" TextAlignment="Right" TextWrapping="Wrap" Text=":انتخاب نوع فعالیت" VerticalAlignment="Top" Width="113" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="603,214,0,0" TextAlignment="Right" TextWrapping="Wrap" Text=":انتخاب گروه تعمیرات" VerticalAlignment="Top" Width="130" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16"/>
+        <ComboBox SelectedValuePath="Tag" x:Name="Com_GroupRepair" HorizontalAlignment="Left" Height="31" Margin="468,211,0,0" FlowDirection="RightToLeft" VerticalAlignment="Top" Width="140" FontFamily="B Nazanin" FontSize="14" FontWeight="Bold"/>
+        <ComboBox SelectedValuePath="Tag" x:Name="Com_TypeActivity" HorizontalAlignment="Left" Height="31" Margin="72,211,0,0" VerticalAlignment="Top" FlowDirection="RightToLeft" Width="140" FontFamily="B Nazanin" FontSize="14" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Height="28" Margin="366,31,0,0" TextAlignment="Right" TextWrapping="Wrap" Text=":نام دستگاه" VerticalAlignment="Top" Width="71" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16"/>
+        <TextBlock x:Name="Text_DeviceName_Select" HorizontalAlignment="Left" Height="28" TextAlignment="Right" Margin="154,31,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="210" FontFamily="B Nazanin" FontWeight="Bold" FontSize="16" RenderTransformOrigin="1.267,1.571"/>
+        <Button x:Name="Btn_Register" Content="ثبت خرابی" HorizontalAlignment="Left" Height="30" Margin="222,272,0,0" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Cursor="Hand" Click="Btn_Register_Click" Background="#FFFCFCFC" Panel.ZIndex="1"/>
+        <Button x:Name="Btn_Exit" Content="خروج" HorizontalAlignment="Left" Height="30" Margin="99,272,0,0" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Cursor="Hand" Click="Btn_Exit_Click" RenderTransformOrigin="1.104,0.75" Background="#FFFCFCFC" Panel.ZIndex="1"/>
+
+        <Button x:Name="BtnCancelEdit"   Content="لغو ویرایش"  HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" Cursor="Hand"  Background="#FFFCFCFC" FontSize="14" Visibility="Hidden" Margin="99,272,0,0" Click="BtnCancelEdit_Click" Panel.ZIndex="2"/>
+
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="48" Margin="74,262,0,0" Stroke="Black" VerticalAlignment="Top" Width="283" RadiusY="5" RadiusX="4" StrokeThickness="0.8"/>
+        <Rectangle  Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="39" Margin="40,78,0,0" Stroke="Black" VerticalAlignment="Top" Width="721" RadiusY="5" RadiusX="4" StrokeThickness="0.8" Panel.ZIndex="-1"/>
+        <Rectangle  Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="39" Margin="41,145,0,0" Stroke="Black" VerticalAlignment="Top" Width="721" RadiusY="5" RadiusX="4" StrokeThickness="0.8" Panel.ZIndex="-1"/>
+       <DataGrid IsReadOnly="true" x:Name="Grid_ExchangePart"  FocusVisualStyle="{x:Null}" AutoGenerateColumns="False" CanUserAddRows="False" FlowDirection="RightToLeft" ItemsSource="{Binding}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="5,318,5,6" FontFamily="B Nazanin" FontSize="16">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="FontWeight"  Value="Bold" />
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns >
+                <DataGridTextColumn  Header="نام قطعه" Width="*"  Binding="{Binding PartName}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn  Header="نام دستگاه" Width="*"  Binding="{Binding DeviceName}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="تاریخ خرابی" Width="*"   Binding="{Binding BadDate}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="ساعت خرابی" Width="*" Binding="{Binding BadTime}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="تاریخ تعمیر" Width="*"    Binding="{Binding RepairDate}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="ساعت تعمیر" Width="*"    Binding="{Binding RepairTime}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="گروه تعمیرات" Width="*"    Binding="{Binding GroupRepair}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="نوع فعالیت" Width="*"    Binding="{Binding TypeActivity}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="{x:Type TextBlock}">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn Width="*" MaxWidth="100"  Header="عملیات" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel  HorizontalAlignment="Center" Orientation="Horizontal">
+                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma" Click="edit_programlot"    Style="{DynamicResource btn_editdelete}" Tag="{Binding  BadPartCode}"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush ImageSource="images/Edit.gif"/>
+                                    </Button.Background>
+                                </Button>
+
+                                <Button FontSize="13" x:Name="btn_delete" FontFamily="tahoma" Click="Delete_ProgramPart"  Style="{DynamicResource btn_editdelete}" Tag="{Binding BadPartCode}"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush ImageSource="images/Delete.png"/>
+                                    </Button.Background>
+
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+
+        </DataGrid>
+        <Rectangle  Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="39" Margin="40,207,0,0" Stroke="Black" VerticalAlignment="Top" Width="721" RadiusY="5" RadiusX="4" StrokeThickness="0.8" Panel.ZIndex="-1"/>
+
+
+        <Custom:DatePicker HorizontalAlignment="Left" Margin="501,82,0,0" x:Name="Text_BadDate"  FontWeight="Bold"   FontSize="12" SelectedDateFormat="Long"  VerticalAlignment="Top" Width="131" Height="26" />
+        <Custom:DatePicker HorizontalAlignment="Left" Margin="506,150,0,0" x:Name="Text_DoDate"  FontWeight="Bold"   FontSize="12" SelectedDateFormat="Long"  VerticalAlignment="Top" Width="126" Height="26" />
+
+
+    </Grid>
+</Window>

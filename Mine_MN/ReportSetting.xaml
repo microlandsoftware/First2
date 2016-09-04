@@ -1,0 +1,15 @@
+﻿<Window x:Class="maintenance.ReportSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="تنظیمات گزارش" Height="204" Width="491" Background="#FFE1E9F1" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Closing="Window_Closing">
+    <Grid>
+        <Label Content=":عنوان گزارش" HorizontalAlignment="Left" Height="33" Margin="391,3,0,0" VerticalAlignment="Top" Width="90" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="Text_TitleReport" HorizontalAlignment="Left" FlowDirection="RightToLeft"  FontFamily="B Nazanin" FontWeight="Bold" Height="30" Margin="19,6,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="364" FontSize="16"/>
+        <CheckBox x:Name="CheckBox_Date"  Content="تاریخ" FlowDirection="RightToLeft"  FontFamily="B Nazanin" FontSize="15" FontWeight="Bold" HorizontalAlignment="Left" Height="25" Margin="321,60,0,0" VerticalAlignment="Top" Width="82"/>
+        <CheckBox x:Name="CheckBox_User"  Content="کاربر جاری" FlowDirection="RightToLeft"  FontFamily="B Nazanin" FontSize="15" FontWeight="Bold" HorizontalAlignment="Left" Height="25" Margin="86,59,0,0" VerticalAlignment="Top" Width="89"/>
+        <Button Content="چاپ" x:Name="Btn_PrintReport"  HorizontalAlignment="Left" Height="30" Margin="257,123,0,0" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Cursor="Hand"  RenderTransformOrigin="1.104,0.75" Background="#FFFCFCFC" Panel.ZIndex="1" Click="Btn_PrintReport_Click"/>
+        <Button x:Name="Btn_Exit" Content="انصراف" HorizontalAlignment="Left" Height="30" Margin="117,123,0,0" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Cursor="Hand" RenderTransformOrigin="1.104,0.75" Background="#FFFCFCFC" Panel.ZIndex="1" Click="Btn_Exit_Click"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="48" Margin="100,114,0,0" Stroke="Black" VerticalAlignment="Top" Width="283" RadiusY="5" RadiusX="4" StrokeThickness="0.8"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="48" Margin="12,48,0,0" Stroke="Black" VerticalAlignment="Top" Width="458" RadiusY="5" RadiusX="4" StrokeThickness="0.8" Panel.ZIndex="-1"/>
+    </Grid>
+</Window>

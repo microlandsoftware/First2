@@ -1,0 +1,466 @@
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\registerlot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\registerlot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\test.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\test.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\userControl.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\userControl.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_paging.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_editdelete.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\registergroup.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\registergroup.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\programing_service.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\programing_service.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\activeservice.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\activeservice.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.g.cs
+E:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Effects.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Effects.xml
+E:\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.xml
+E:\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\WpfApplication1\WpfApplication1\obj\Debug\activeservice.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\programing_service.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\registergroup.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\registerlot.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_editdelete.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_paging.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\test.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\userControl.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\activeservice.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\programing_service.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\registergroup.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\registerlot.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\test.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\userControl.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\WpfApplication1\WpfApplication1\obj\Debug\show_device_status.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\show_device_status.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\setting.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\setting.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\change_device_status.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\change_device_status.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\register_user.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\register_user.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\login.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\login.g.cs
+E:\WpfApplication1\WpfApplication1\obj\Debug\test2.baml
+E:\WpfApplication1\WpfApplication1\obj\Debug\test2.g.cs
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Effects.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Data.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Input.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Data.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Effects.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Data.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Input.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Data.xml
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\change_device_status.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\login.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_service.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\registergroup.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\registerlot.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_user.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_editdelete.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_paging.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\setting.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\show_device_status.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\test.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\test2.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\userControl.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\change_device_status.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\login.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_service.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\registergroup.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\registerlot.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_user.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\setting.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\show_device_status.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\test.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\test2.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\userControl.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\last project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\changelist_status_device.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\change_device_status.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\document_report.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\listdevice_profile.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\login.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\messagebox.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\profile_device.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_service.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\registergroup.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\registerlot.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_changelist_stautsdevice.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_user.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_xchangelot.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\report_badlot.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\report_programlot.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\report_programservice.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_editdelete.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_paging.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\ResourceDictionary2.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\ResourceDictionary3.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\ResourceDictionary4.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\ResourceDictionary5.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\ResourceDictionary6.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\setting.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\show_device_status.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\show_list_xchangelot.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\Simple Styles.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\status_hardware.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\test.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\test2.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\userControl.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\xchangelot.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\changelist_status_device.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\change_device_status.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\document_report.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\listdevice_profile.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\login.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\messagebox.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\profile_device.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_service.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\registergroup.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\registerlot.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_changelist_stautsdevice.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_user.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\register_xchangelot.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\report_badlot.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\report_programlot.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\report_programservice.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\setting.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\show_device_status.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\show_list_xchangelot.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\status_hardware.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\test.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\test2.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\userControl.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\xchangelot.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+E:\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\CodeReason.Reports.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Base.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Database.Wpf.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.BlackTheme.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.Design.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.WpfDesign.Design.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.WpfDesign.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Check.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Helper.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\CodeReason.Reports.pdb
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Base.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Database.Wpf.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Wpf.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.WpfDesign.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Check.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\Stimulsoft.Report.Helper.xml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\changelist_status_device.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\change_device_status.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\document_report.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\listdevice_profile.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\login.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\messagebox.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\messagebox_selectform.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\profile_device.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_service.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\registergroup.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\registerlot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\register_changelist_stautsdevice.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\register_user.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\register_xchangelot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\report_badlot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\report_programlot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\report_programservice.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\report_setting.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_editdelete.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\Resourcebtn_paging.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\setting.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\show_device_status.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\show_device_status_typemachin.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\show_list_xchangelot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\Simple Styles.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\status_hardware.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\Templates\DynamicReport.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\Templates\template_report.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\test.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\test2.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\test_createservice.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\userControl.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\xchangelot.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_kilometr.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\activeservice_time.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\changelist_status_device.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\change_device_status.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\document_report.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\listdevice_profile.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\login.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\messagebox.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\messagebox_selectform.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\profile_device.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_lot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\programing_service.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\registergroup.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\registerlot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\register_changelist_stautsdevice.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\register_programing_lot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\register_user.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\register_xchangelot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\report_badlot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\report_programlot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\report_programservice.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\report_setting.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\setting.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\show_device_status.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\show_device_status_typemachin.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\show_list_xchangelot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\status_hardware.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\test.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\test2.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\test_createservice.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\userControl.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\xchangelot.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\micro_000\Documents\Expression\Blend 4\Projects\last project\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb

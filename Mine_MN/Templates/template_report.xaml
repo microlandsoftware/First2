@@ -1,0 +1,132 @@
+﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+              xmlns:xrd="clr-namespace:CodeReason.Reports.Document;assembly=CodeReason.Reports" 
+              PageHeight="29.7cm" PageWidth="21cm" ColumnWidth="21cm">
+    <xrd:ReportProperties>
+        <xrd:ReportProperties.ReportName>Simple55225Report</xrd:ReportProperties.ReportName>
+        <xrd:ReportProperties.ReportTitle >گزارش سرویس های دوره ای دستگاه </xrd:ReportProperties.ReportTitle>
+    </xrd:ReportProperties>
+   
+    <Section  Padding="80,10,40,10" FontSize="12">
+        <Paragraph FontSize="20" FlowDirection="RightToLeft"  FontFamily="B nazanin" FontWeight="Bold">
+            <xrd:InlineContextValue PropertyName="ReportTitle" />
+            <xrd:InlineDocumentValue PropertyName="namedevice" Format="dd.MM.yyyy HH:mm:ss" />
+        </Paragraph>
+       
+        <Paragraph FlowDirection="RightToLeft" FontSize="18" FontWeight="Bold" FontFamily="B nazanin">
+            نام دستگاه:
+                        <xrd:InlineDocumentValue  PropertyName="namedevice"  Format="dd.MM.yyyy HH:mm:ss" />
+            مدل دستگاه:
+                        <xrd:InlineDocumentValue PropertyName="namemodel" Format="dd.MM.yyyy HH:mm:ss" />
+            برند دستگاه:
+                        <xrd:InlineDocumentValue PropertyName="namebrand" Format="dd.MM.yyyy HH:mm:ss" />
+
+        </Paragraph>
+
+        <xrd:SectionDataGroup DataGroupName="ItemList">
+            
+            <Table CellSpacing="0" BorderBrush="Black" FlowDirection="RightToLeft" BorderThickness="0.02cm">
+                <Table.Resources>
+                    <!-- Style for header/footer rows. -->
+                    <Style x:Key="headerFooterRowStyle" TargetType="{x:Type TableRowGroup}">
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="FontSize" Value="16"/>
+                        <Setter Property="Background" Value="LightGray"/>
+                        <Setter Property="FontFamily" Value="B nazanin"/>
+                    </Style>
+
+                    <!-- Style for data rows. -->
+                    <Style x:Key="dataRowStyle" TargetType="{x:Type TableRowGroup}">
+                        <Setter Property="FontSize" Value="16"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                    </Style>
+
+                    <!-- Style for data cells. -->
+                    <Style TargetType="{x:Type TableCell}">
+                        <Setter Property="Padding" Value="0.1cm"/>
+                        <Setter Property="BorderBrush" Value="Black"/>
+                        <Setter Property="BorderThickness" Value="0.01cm"/>
+                        <Setter Property="FontFamily" Value="B nazanin"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                    </Style>
+                 </Table.Resources>
+
+
+
+                <Table.Columns>
+                    <TableColumn Width="*" />
+                    <TableColumn Width="*" />
+                    <TableColumn Width="*" />
+                    <TableColumn Width="*" />
+                    <TableColumn Width="*" />
+                </Table.Columns>
+                <TableRowGroup Style="{StaticResource headerFooterRowStyle}">
+                    <TableRow>
+                        <TableCell>
+                            <Paragraph  TextAlignment="Center">
+                                <Bold>عنوان بازدید</Bold>
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph TextAlignment="Center">
+                                <Bold>نوع دوره</Bold>
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph TextAlignment="Center">
+                                <Bold>تاریخ</Bold>
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph TextAlignment="Center">
+                                <Bold>ساعت</Bold>
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph TextAlignment="Center">
+                                <Bold>وضعیت</Bold>
+                            </Paragraph>
+                        </TableCell>
+                        
+                    </TableRow>
+                </TableRowGroup>
+                <TableRowGroup Style="{StaticResource dataRowStyle}">
+                    <xrd:TableRowForDataTable TableName="Ean">
+                       
+                        <TableCell>
+                            <Paragraph FontFamily="B nazanin" TextAlignment="Center">
+                                <xrd:InlineTableCellValue PropertyName="title" />
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph FontFamily="B nazanin" TextAlignment="Center">
+                                <xrd:InlineTableCellValue PropertyName="type" />
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph FontFamily="B nazanin" TextAlignment="Center">
+                                <xrd:InlineTableCellValue PropertyName="date"/>
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph FontFamily="B nazanin" TextAlignment="Center">
+                                <xrd:InlineTableCellValue PropertyName="time"/>
+                            </Paragraph>
+                        </TableCell>
+                        <TableCell>
+                            <Paragraph FontFamily="B nazanin" TextAlignment="Center">
+                                <xrd:InlineTableCellValue PropertyName="status" />
+                            </Paragraph>
+                        </TableCell>
+                      
+                    </xrd:TableRowForDataTable>
+                </TableRowGroup>
+            </Table>
+            <Paragraph>
+                There are
+                <xrd:InlineAggregateValue AggregateGroup="ItemCount" AggregateValueType="Count" EmptyValue="no" FontWeight="Bold" /> تعدا 
+                <xrd:InlineAggregateValue AggregateGroup="ItemCount" AggregateValueType="Sum" EmptyValue="0" FontWeight="Bold" /> items listed.
+            </Paragraph>
+        </xrd:SectionDataGroup>
+    </Section>
+</FlowDocument>

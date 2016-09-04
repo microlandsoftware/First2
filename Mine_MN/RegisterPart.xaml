@@ -1,0 +1,121 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" x:Class="maintenance.RegisterPart"
+        Title="ثبت قطعات" Height="563" Width="1021.545" WindowStartupLocation="CenterScreen" Background="#FFE1E9F1"  ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid Margin="0,0,0,-1" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content=":نام قطعه" FontSize="16" Grid.Column="1" HorizontalAlignment="Left" Height="32" Margin="422,31,0,0" VerticalAlignment="Top" Width="66" FontFamily="B Nazanin" FontWeight="Bold" RenderTransformOrigin="0.515,-0.031"/>
+        <TextBox x:Name="Text_PartName" Grid.Column="1" MaxLength="50" FlowDirection="RightToLeft" HorizontalAlignment="Left" Height="24" Margin="267,36,0,0" TextWrapping="Wrap"   VerticalAlignment="Top" Width="150" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14"/>
+        <Label Content=":مدل قطعه" FontSize="16" FontWeight="Bold" Grid.Column="1" HorizontalAlignment="Left" Height="32" Margin="181,31,0,0" VerticalAlignment="Top" Width="74" FontFamily="B Nazanin"/>
+        <TextBox x:Name="Text_PartModel" FlowDirection="RightToLeft" MaxLength="20" HorizontalAlignment="Left" Height="26" Margin="27,35,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Grid.Column="1"/>
+        <Label Content=":کشور سازنده" FontSize="16" FontWeight="Bold" HorizontalAlignment="Left" Height="32" Margin="443,31,0,0" VerticalAlignment="Top" Width="85" FontFamily="B Nazanin" Grid.ColumnSpan="2"/>
+
+
+        <TextBox x:Name="Text_Country" HorizontalAlignment="Left" MaxLength="20" Height="26" Margin="289,36,0,0" FlowDirection="RightToLeft" TextWrapping="Wrap"  VerticalAlignment="Top" Width="150" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14"/>
+        <Button Content="ثبت قطعه" x:Name="Btn_RegisterPart" Click="btn_registerlot_Click" HorizontalAlignment="Left" Height="30" Margin="175,127,0,0" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Cursor="Hand"  RenderTransformOrigin="1.104,0.75" Background="#FFFCFCFC" Panel.ZIndex="1"/>
+        <Button x:Name="Btn_CancelEdit"   Content="لغو ویرایش" Visibility="Hidden"  HorizontalAlignment="Left" Height="30" Margin="35,127,0,0" VerticalAlignment="Top" Width="106" Click="btn_cancel_edit_Click" FontFamily="B Nazanin" FontWeight="Bold" Cursor="Hand" Background="#FFFCFCFC" FontSize="14" Panel.ZIndex="2"/>
+
+
+        <Button Height="29"  HorizontalAlignment="Left" Margin="414,0,0,15" x:Name="btnFirst" 
+			VerticalAlignment="Bottom" Width="34" Click="btnFirst_Click"  Grid.Row="1" Cursor="Hand"  RenderTransformOrigin="0.5,0.5" Style="{DynamicResource btn_paging}" Grid.Column="1" >
+            <Button.Background>
+                <ImageBrush ImageSource="images/firstpage.png"/>
+            </Button.Background>
+
+        </Button>
+        <Button Height="25" HorizontalAlignment="Left" Margin="330,0,0,17" x:Name="btnPrev" 
+			VerticalAlignment="Bottom" Width="34" Click="btnPrev_Click" Grid.Row="1" Cursor="Hand" Foreground="#FF339B91"  Style="{DynamicResource btn_paging}" RenderTransformOrigin="0.594,0.413" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="images/previouspage.png"/>
+            </Button.Background>
+        </Button>
+        <Button Height="23" Margin="0,0,18,18" x:Name="btnNext" 
+			VerticalAlignment="Bottom" Click="btnNext_Click" Grid.Row="1" Cursor="Hand" Foreground="#FF339B91"   HorizontalAlignment="Right" Width="35" Style="{DynamicResource btn_paging}" RenderTransformOrigin="0.5,0.5" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="images/nextpage.png"/>
+            </Button.Background>
+        </Button>
+        <Button Height="25" HorizontalAlignment="Right" Margin="0,0,101,17" x:Name="btnLast" 
+			VerticalAlignment="Bottom" Width="33" Click="btnLast_Click" Grid.Row="1" Cursor="Hand" Foreground="#FF339B91"  Style="{DynamicResource btn_paging}" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="images/lastpage.png"/>
+            </Button.Background>
+        </Button>
+
+        <TextBlock Height="21" Margin="442,0,93,18" Visibility="Hidden" x:Name="tbCurrentPage" 
+			VerticalAlignment="Bottom" />
+        <TextBlock Height="21" HorizontalAlignment="Right" Visibility="Hidden" Margin="0,0,45,18" x:Name="tbTotalPage" 
+			VerticalAlignment="Bottom" Width="28" />
+        <DataGrid IsReadOnly="true" AutoGenerateColumns="False"  x:Name="Grid_RegisterPart" Grid.Row="1" FlowDirection="RightToLeft" VerticalAlignment="Stretch"  CanUserAddRows="False" Grid.ColumnSpan="2" MinWidth="450"  Margin="-1,3,1,52" FontFamily="B Nazanin" FontSize="16" ItemsSource="{Binding}">
+
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="FontWeight"  Value="Bold" />
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+
+            <DataGrid.Columns>
+
+                <DataGridTextColumn  Header="نام قطعه" Width="*" MinWidth="260" Binding="{Binding PartName}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn  Header="مدل قطعه" Width="*" MinWidth="210" Binding="{Binding PartModel}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="کشور سازنده" Width="*" MinWidth="155"  Binding="{Binding Country}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                
+                <DataGridTemplateColumn MinWidth="50"  Header="عملیات" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button FontSize="13" x:Name="Btn_Edit" FontFamily="tahoma"  Click="Edit_Part" Style="{DynamicResource btn_editdelete}" Tag="{Binding PartCode}"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush ImageSource="images/Edit.gif"/>
+                                    </Button.Background>
+                                </Button>
+
+                                <Button FontSize="13" x:Name="Btn_Delete" FontFamily="tahoma" Click="Delete_Part" Style="{DynamicResource btn_editdelete}" Tag="{Binding PartCode}"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush ImageSource="images/Delete.png"/>
+                                    </Button.Background>
+
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Button x:Name="Btn_Exit" Content="خروج" HorizontalAlignment="Left" Height="30" Margin="35,127,0,0" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Cursor="Hand" Click="btn_exit_Click" RenderTransformOrigin="1.104,0.75" Background="#FFFCFCFC" Panel.ZIndex="1"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="48" Margin="18,118,0,0" Stroke="Black" VerticalAlignment="Top" Width="283" RadiusY="5" RadiusX="4" StrokeThickness="0.8"/>
+        <Rectangle  Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="39" Margin="277,29,0,0" Stroke="Black" VerticalAlignment="Top" Width="721" RadiusY="5" RadiusX="4" StrokeThickness="0.8" Panel.ZIndex="-1" Grid.ColumnSpan="2"/>
+
+
+
+    </Grid>
+</Window>

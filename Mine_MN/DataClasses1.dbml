@@ -1,0 +1,974 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Mine" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=BIDOKI-PC;Initial Catalog=Mine;Integrated Security=True" SettingsObjectName="maintenance.Properties.Settings" SettingsPropertyName="MineConnectionString6" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ADM_AlarmSymbol" Member="ADM_AlarmSymbols">
+    <Type Name="ADM_AlarmSymbol">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Symbol" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="Message" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VehicleState" Member="VehicleStates">
+    <Type Name="VehicleState">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(11,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="State" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="SpecialState" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ConnectionState" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_Brand" Member="ADM_Brands">
+    <Type Name="ADM_Brand">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="VehicleTypeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_ConfigAlarm" Member="ADM_ConfigAlarms">
+    <Type Name="ADM_ConfigAlarm">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AlarmID" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Symbol" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="Enable" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Priority" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_ConfigGeneral" Member="ADM_ConfigGenerals">
+    <Type Name="ADM_ConfigGeneral">
+      <Column Name="ID" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="DeviceType" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ControllerPort" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="GPSPort" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="GPSSpeed" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="SendPeriod" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="AckPeriod" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="TempSize" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Protocol" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="IP" Type="System.String" DbType="Char(15)" CanBeNull="true" />
+      <Column Name="Port" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="ServiceVersion" Type="System.String" DbType="Char(6)" CanBeNull="true" />
+      <Column Name="ServiceName" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="ConnectionType" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="OfflineAdminID" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_ConfigModem" Member="ADM_ConfigModems">
+    <Type Name="ADM_ConfigModem">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="DNS1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DNS2" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NBNS1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NBNS2" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="APN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Username" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TryCount" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="TrySleep" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="AutoConnect" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="AuthenticationPreference" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_ConfigPriority" Member="ADM_ConfigPriorities">
+    <Type Name="ADM_ConfigPriority">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="PriorityID" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Type" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Send" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Beep" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Show" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Sound" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="[Confirm]" Member="Confirm" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ShowTime" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ScreenSize" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Color" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Font" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="FontSize" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="FontColor" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_Device" Member="ADM_Devices">
+    <Type Name="ADM_Device">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_DeviceAndVehicle" Member="ADM_DeviceAndVehicles">
+    <Type Name="ADM_DeviceAndVehicle">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="DispatcherID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_Load" Member="ADM_Loads">
+    <Type Name="ADM_Load">
+      <Column Name="LoadID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Code" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Type" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_Message" Member="ADM_Messages">
+    <Type Name="ADM_Message">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Message" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Code" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Sender" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_Model" Member="ADM_Models">
+    <Type Name="ADM_Model">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="BrandID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Capacity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="ADM_Model_MN_DefineVisitCycle" Member="MN_DefineVisitCycles" ThisKey="ID" OtherKey="ModelID" Type="MN_DefineVisitCycle" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_Shift" Member="ADM_Shifts">
+    <Type Name="ADM_Shift">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="WorkSeasonID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Shift1First" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Shift1End" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Shift2First" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Shift2End" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Shift3First" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Shift3End" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="UserId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_StateShifts" Member="ADM_StateShifts">
+    <Type Name="ADM_StateShift">
+      <Column Name="SSID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="WSID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="State" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="UserId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_UserAndVehicle" Member="ADM_UserAndVehicles">
+    <Type Name="ADM_UserAndVehicle">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DispatcherID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_Vehicle" Member="ADM_Vehicles">
+    <Type Name="ADM_Vehicle">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Capacity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Power" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DrillSpeed" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DrillDiagonal" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CabinType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FuelType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Active" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="PictureUrl" Type="System.String" DbType="NVarChar(60)" CanBeNull="true" />
+      <Column Name="DeviceID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ModelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ActiveService_Kilometer" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ActiveService_Time" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ADM_WorkSeason" Member="ADM_WorkSeasons">
+    <Type Name="ADM_WorkSeason">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FirstDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LastDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SeasonName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="UserId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BS_LoginStates" Member="BS_LoginStates">
+    <Type Name="BS_LoginState">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(7,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="LoginStatus" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_DistanceDurationTemp" Member="FM_DistanceDurationTemps">
+    <Type Name="FM_DistanceDurationTemp">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="StartDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EndDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StartTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="EndTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="MaxSpeed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="MinSpeed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="AvgSpeed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Distance" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MaxStop" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_EntryAndExitShovel" Member="FM_EntryAndExitShovels">
+    <Type Name="FM_EntryAndExitShovel">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShovelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EntryDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EntryTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="ExitDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ExitTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="LoadID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_EntryAndExitUnloading" Member="FM_EntryAndExitUnloadings">
+    <Type Name="FM_EntryAndExitUnloading">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShapeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EntryDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EntryTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="ExitDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ExitTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="LoadID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShiftID" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_EventRuleFired" Member="FM_EventRuleFireds">
+    <Type Name="FM_EventRuleFired">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EventID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="ShiftID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShapeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Value" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="AlarmMessage" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Count" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_EventRules" Member="FM_EventRules">
+    <Type Name="FM_EventRule">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Type" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="AlarmType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsSent" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Show" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Priority" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Value" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="AlarmMessage" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ShapeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_ImportLayer" Member="FM_ImportLayers">
+    <Type Name="FM_ImportLayer">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LayerName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="MapUrl" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="MapColor" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="LayerType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsUnloading" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_ImportPointTemp" Member="FM_ImportPointTemps">
+    <Type Name="FM_ImportPointTemp">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="X" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Y" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Z" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_LayerChecked" Member="FM_LayerCheckeds">
+    <Type Name="FM_LayerChecked">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ImportID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LayerId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_LoadList" Member="FM_LoadLists">
+    <Type Name="FM_LoadList">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="LoadType" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_LoadListX" Member="FM_LoadListXes">
+    <Type Name="FM_LoadListX">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="LoadType" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_MessagesRecieved" Member="FM_MessagesRecieveds">
+    <Type Name="FM_MessagesRecieved">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(15,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MessageID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_MessagesSent" Member="FM_MessagesSents">
+    <Type Name="FM_MessagesSent">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(15,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ToUserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Message" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="FromUserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Delivery" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_OnlineViewT" Member="FM_OnlineViewTs">
+    <Type Name="FM_OnlineViewT">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StartTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Bearing" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="LocationNow" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="StatusNow" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LoadType" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LoadVim" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MaxSpeed" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MinSpeed" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SpeedNow" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Pic" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_PointsShape" Member="FM_PointsShapes">
+    <Type Name="FM_PointsShape">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShapeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="X" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Y" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_RoadAndDestination" Member="FM_RoadAndDestinations">
+    <Type Name="FM_RoadAndDestination">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoadID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DestinationID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_RoadProblem" Member="FM_RoadProblems">
+    <Type Name="FM_RoadProblem">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Lat" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Lon" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Alt" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Azimuth" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Speed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_Routes" Member="FM_Routes">
+    <Type Name="FM_Route">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShovelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DistinationID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Distance" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="LoadID" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="AllowedRoads" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_Schedule" Member="FM_Schedules">
+    <Type Name="FM_Schedule">
+      <Column Name="PID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IdCars" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PBlockName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="PCreateDate" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="PCreateTime" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="PDoDate" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="PDoTime" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="TypePlanning" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_ScheduleDrillEx" Member="FM_ScheduleDrillExes">
+    <Type Name="FM_ScheduleDrillEx">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DateCreated" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="IdLoader" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IdBlock" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="StartTime1" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="EndTime1" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="StartTime2" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="EndTime2" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="StartTime3" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="EndTime3" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="IDLine" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_ScheduleEx" Member="FM_ScheduleExes">
+    <Type Name="FM_ScheduleEx">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DateCreated" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LoaderID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BlockID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StartTime1" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="EndTime1" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="StartTime2" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="EndTime2" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="StartTime3" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="EndTime3" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="LineID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_ServiceList" Member="FM_ServiceLists">
+    <Type Name="FM_ServiceList">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShovelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OperatorID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShiftID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LoadID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BlockID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LevelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ExitTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="UnloadingTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="BackTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="State" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_ShapeSubLayer" Member="FM_ShapeSubLayers">
+    <Type Name="FM_ShapeSubLayer">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Color" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="TypeMainLayers" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NameShape" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ActiveState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="CloseState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="SphereLayer" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="AreaLayer" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="ModifiType" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="UserId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Description1" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Description2" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="GradeId" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LevelLayer" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TypeSubLayer" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TypeBlock" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RoadWidth" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TypeRoadbed" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StateRoad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SlopeRoad" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="StateEventrol" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="UnloadingTypeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DestinationID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_TempQueueShovel" Member="FM_TempQueueShovels">
+    <Type Name="FM_TempQueueShovel">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ShovelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OrderID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_TempQueueUnloading" Member="FM_TempQueueUnloadings">
+    <Type Name="FM_TempQueueUnloading">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PlaceID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OrderID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_TimeLineLoadList" Member="FM_TimeLineLoadLists">
+    <Type Name="FM_TimeLineLoadList">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LineID" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="LoadID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ShovelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UnloadingID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_TypeOfUnloading" Member="FM_TypeOfUnloadings">
+    <Type Name="FM_TypeOfUnloading">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="UnloadingType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="State" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InputData" Member="InputDatas">
+    <Type Name="InputData">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Lat" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Lon" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Alt" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Azimuth" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Speed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="WorkTime" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Distance" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="PlaceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="[Log]" Member="Log" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InputDataTemp" Member="InputDataTemps">
+    <Type Name="InputDataTemp">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Lat" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Lon" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Alt" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Azimuth" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Speed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="GroupId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.InputDataX" Member="InputDataXes">
+    <Type Name="InputDataX">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Lat" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Lon" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Alt" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Azimuth" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Ignition" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Speed" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="VBV" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="BBV" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="BAT" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="DTM" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="NetworkType" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="NetworkStatus" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Alarm" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ClientTimeStamp" Type="System.String" DbType="NChar(16)" CanBeNull="true" />
+      <Column Name="Valid" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Lables" Member="Lables">
+    <Type Name="Lable">
+      <Column Name="LID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LGrp" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LSubGrp" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="LDscEn" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="LDscFa" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Del_Status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_CounterService" Member="MN_CounterServices">
+    <Type Name="MN_CounterService">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ServiceCycleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TotalService_Time" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TotalService_Kilometer" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_CreatePartFix" Member="MN_CreatePartFixes">
+    <Type Name="MN_CreatePartFix">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PartModeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreateTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="CreateDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DoDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DoTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[Confirm]" Member="Confirm" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="PartWork" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TotalWork" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Association Name="MN_DefinePartMode_MN_CreatePartFix" Member="MN_DefinePartMode" ThisKey="PartModeID" OtherKey="ID" Type="MN_DefinePartMode" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_CreateService" Member="MN_CreateServices">
+    <Type Name="MN_CreateService">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ServiceCycleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CreateTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="CreateDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DoTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="DoDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="[Confirm]" Member="Confirm" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ServiceWork" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TotalWork" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="FileURL" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_CycleCriteriaType" Member="MN_CycleCriteriaTypes">
+    <Type Name="MN_CycleCriteriaType">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="MN_CycleCriteriaType_MN_DefineServiceCycle" Member="MN_DefineServiceCycles" ThisKey="ID" OtherKey="CriteriaID" Type="MN_DefineServiceCycle" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_DefinePartMode" Member="MN_DefinePartModes">
+    <Type Name="MN_DefinePartMode">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PartID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CriteriaID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Value" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="FixTypeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GroupID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Schedule" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Warning" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Alarm" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Counter" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="MN_DefinePartMode_MN_CreatePartFix" Member="MN_CreatePartFixes" ThisKey="ID" OtherKey="PartModeID" Type="MN_CreatePartFix" />
+      <Association Name="MN_FixType_MN_DefinePartMode" Member="MN_FixType" ThisKey="FixTypeID" OtherKey="ID" Type="MN_FixType" IsForeignKey="true" />
+      <Association Name="MN_Group_MN_DefinePartMode" Member="MN_Group" ThisKey="GroupID" OtherKey="ID" Type="MN_Group" IsForeignKey="true" />
+      <Association Name="MN_Part_MN_DefinePartMode" Member="MN_Part" ThisKey="PartID" OtherKey="ID" Type="MN_Part" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_DefineServiceCycle" Member="MN_DefineServiceCycles">
+    <Type Name="MN_DefineServiceCycle">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VisitCycleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="CriteriaID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Value" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Sum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GroupID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Schedule" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Alarm" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Warning" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Counter" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FileURL" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="MN_CycleCriteriaType_MN_DefineServiceCycle" Member="MN_CycleCriteriaType" ThisKey="CriteriaID" OtherKey="ID" Type="MN_CycleCriteriaType" IsForeignKey="true" />
+      <Association Name="MN_DefineVisitCycle_MN_DefineServiceCycle" Member="MN_DefineVisitCycle" ThisKey="VisitCycleID" OtherKey="ID" Type="MN_DefineVisitCycle" IsForeignKey="true" />
+      <Association Name="MN_Group_MN_DefineServiceCycle" Member="MN_Group" ThisKey="GroupID" OtherKey="ID" Type="MN_Group" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_DefineVisitCycle" Member="MN_DefineVisitCycles">
+    <Type Name="MN_DefineVisitCycle">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ModelID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="MN_DefineVisitCycle_MN_DefineServiceCycle" Member="MN_DefineServiceCycles" ThisKey="ID" OtherKey="VisitCycleID" Type="MN_DefineServiceCycle" />
+      <Association Name="ADM_Model_MN_DefineVisitCycle" Member="ADM_Model" ThisKey="ModelID" OtherKey="ID" Type="ADM_Model" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_FixType" Member="MN_FixTypes">
+    <Type Name="MN_FixType">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="MN_FixType_MN_DefinePartMode" Member="MN_DefinePartModes" ThisKey="ID" OtherKey="FixTypeID" Type="MN_DefinePartMode" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_Group" Member="MN_Groups">
+    <Type Name="MN_Group">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="MN_Group_MN_DefinePartMode" Member="MN_DefinePartModes" ThisKey="ID" OtherKey="GroupID" Type="MN_DefinePartMode" />
+      <Association Name="MN_Group_MN_DefineServiceCycle" Member="MN_DefineServiceCycles" ThisKey="ID" OtherKey="GroupID" Type="MN_DefineServiceCycle" />
+      <Association Name="MN_Group_MN_PartFix" Member="MN_PartFixes" ThisKey="ID" OtherKey="GroupID" Type="MN_PartFix" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_KMTrigger" Member="MN_KMTriggers">
+    <Type Name="MN_KMTrigger">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="WorkKilometer" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_Part" Member="MN_Parts">
+    <Type Name="MN_Part">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Model" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Country" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="MN_Part_MN_DefinePartMode" Member="MN_DefinePartModes" ThisKey="ID" OtherKey="PartID" Type="MN_DefinePartMode" />
+      <Association Name="MN_Part_MN_PartFix" Member="MN_PartFixes" ThisKey="ID" OtherKey="PartID" Type="MN_PartFix" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_PartFix" Member="MN_PartFixes">
+    <Type Name="MN_PartFix">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PartID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BreakTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="BreakDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FixTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="FixDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GroupID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FixTypeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="MN_Group_MN_PartFix" Member="MN_Group" ThisKey="GroupID" OtherKey="ID" Type="MN_Group" IsForeignKey="true" />
+      <Association Name="MN_Part_MN_PartFix" Member="MN_Part" ThisKey="PartID" OtherKey="ID" Type="MN_Part" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_Plan" Member="MN_Plans">
+    <Type Name="MN_Plan">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleThreadUpdate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DeviceThreadUpdate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ScheduleThreadUpdate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="AlarmThreadUpdate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_State" Member="MN_States">
+    <Type Name="MN_State">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Code" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Parent" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="StatusIcon" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="Show" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ImageVehicle_BySatet" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="ImageVehicle_ByWarning" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="ImageVehicle_ByAlarm" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="ImageVehicle_Profile" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_SumService" Member="MN_SumServices">
+    <Type Name="MN_SumService">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KMSum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TimeSum" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_TimeTrigger" Member="MN_TimeTriggers">
+    <Type Name="MN_TimeTrigger">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="WorkTime" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_TotalWork" Member="MN_TotalWorks">
+    <Type Name="MN_TotalWork">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TotalTime" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="TimePortion" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TotalKM" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="KMPortion" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.User_GroupRole" Member="User_GroupRoles">
+    <Type Name="User_GroupRole">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="GroupID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RoleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GroupRoleHsh" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.User_GroupsProfile" Member="User_GroupsProfiles">
+    <Type Name="User_GroupsProfile">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="GroupNameFa" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GroupNameEn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GroupDescription" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="TypeGroup" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.User_GroupUser" Member="User_GroupUsers">
+    <Type Name="User_GroupUser">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GroupID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserGroupHsh" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.User_PermissionProfile" Member="User_PermissionProfiles">
+    <Type Name="User_PermissionProfile">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PermissionNameFa" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PermissionNameEn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PermissionDescription" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="GroupID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.User_RolePermission" Member="User_RolePermissions">
+    <Type Name="User_RolePermission">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PermissionID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RolePermissionHsh" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.User_RoleProfile" Member="User_RoleProfiles">
+    <Type Name="User_RoleProfile">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoleNameFa" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="RoleNameEN" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="RoleDescription" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.User_UserProfile" Member="User_UserProfiles">
+    <Type Name="User_UserProfile">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="Family" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="FatherName" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="NationalCode" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="SSN" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="Birthday" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Tel" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="Mobile" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Description" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="PictureUrl" Type="System.String" DbType="NText" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="TypeGroup" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Evidence" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="SituationJob" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Experience" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="Authentication" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="TypeContract" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="ActiveState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="AdminState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.User_UserRole" Member="User_UserRoles">
+    <Type Name="User_UserRole">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RoleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserRoleHsh" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="DelState" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.VehicleLastState" Member="VehicleLastStates">
+    <Type Name="VehicleLastState">
+      <Column Name="ID" Type="System.Decimal" DbType="Decimal(11,0) NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="State" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="SpecialState" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="ConnectionState" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="PlaceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="LoadID" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_AddWork" Member="MN_AddWorks">
+    <Type Name="MN_AddWork">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="WorkKM" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="WorkTime" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FM_AlarmReport" Member="FM_AlarmReports">
+    <Type Name="FM_AlarmReport">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AlarmID" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="Symbol" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="Date" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="StartDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StartTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="EndDate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EndTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="DeviceID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="UserID" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="DurationDay" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="DurationTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MN_ManualWork" Member="MN_ManualWorks">
+    <Type Name="MN_ManualWork">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VehicleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="WorkTime" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Distance" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

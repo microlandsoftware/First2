@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F1BC15D5-ABE5-4421-AE40-A449842007A4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <DefaultClrNameSpace>WpfApplication1</DefaultClrNameSpace>
+    <RootNamespace>maintenance</RootNamespace>
+    <AssemblyName>maintenance</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <ApplicationIcon>Application.ico</ApplicationIcon>
+    <Utf8Output>true</Utf8Output>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CodeReason.Reports">
+      <HintPath>..\..\..\..\..\..\..\Desktop\codereason_reports_v0.5_alpha\CodeReason.Reports\bin\Debug\CodeReason.Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Expression.Drawing" />
+    <Reference Include="Microsoft.Expression.Effects" />
+    <Reference Include="Microsoft.Expression.Interactions" />
+    <Reference Include="Microsoft.Windows.Design.Extensibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="ReachFramework" />
+    <Reference Include="Stimulsoft.Base, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.BlackTheme, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.BlackTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.Design, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.Office2003BlueTheme, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.Office2003OliveGreenTheme, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.Office2003SilverTheme, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.Office2007BlackTheme, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.Office2007BlueTheme, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.Office2007SilverTheme, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.Wpf.Office2010BlueTheme, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.WpfDesign, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.WpfDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Stimulsoft.Report.WpfDesign.Design, Version=2012.1.1300.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Reports.Ultimate 2012.1 Trial\Bin\Stimulsoft.Report.WpfDesign.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Controls.Ribbon, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Controls.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WPFToolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\micro_000\Downloads\PerisanWpfToolkit_SourceAndDemo\PerisanWpfToolkit_SourceAndDemo\WPFToolkit\bin\Debug\WPFToolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="ActiveService_Kilometer.xaml.cs">
+      <DependentUpon>ActiveService_Kilometer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ActiveService_Time.xaml.cs">
+      <DependentUpon>ActiveService_Time.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddWorking.xaml.cs" />
+    <Compile Include="Alarm.xaml.cs">
+      <DependentUpon>Alarm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="clasess\UserManagment.cs" />
+    <Compile Include="FilterGrid.xaml.cs">
+      <DependentUpon>FilterGrid.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.xaml.cs">
+      <DependentUpon>LoginForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterSpecialService.xaml.cs">
+      <DependentUpon>RegisterSpecialService.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ResetWorking.xaml.cs">
+      <DependentUpon>ResetWorking.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowListDevice_ChangeStatus.xaml.cs">
+      <DependentUpon>ShowListDevice_ChangeStatus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterChangeStatus_Device.xaml.cs">
+      <DependentUpon>RegisterChangeStatus_Device.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="clasess\Ini.cs" />
+    <Compile Include="clasess\Class1.cs" />
+    <Compile Include="ShowListDevice_ShowProfile.xaml.cs">
+      <DependentUpon>ShowListDevice_ShowProfile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.xaml.cs">
+      <DependentUpon>Loading.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBox_ConfirmService.xaml.cs">
+      <DependentUpon>MessageBox_ConfirmService.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBox_SelectForm.xaml.cs">
+      <DependentUpon>MessageBox_SelectForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PrintProfile.xaml.cs">
+      <DependentUpon>PrintProfile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowListPart_RegisterProgram.xaml.cs">
+      <DependentUpon>ShowListPart_RegisterProgram.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterProgramService.xaml.cs">
+      <DependentUpon>RegisterProgramService.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterGroup.xaml.cs">
+      <DependentUpon>RegisterGroup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterPart.xaml.cs">
+      <DependentUpon>RegisterPart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterChangeList_DeviceStauts.xaml.cs">
+      <DependentUpon>RegisterChangeList_DeviceStauts.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterProgramingPart.xaml.cs">
+      <DependentUpon>RegisterProgramingPart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterExchangePart.xaml.cs">
+      <DependentUpon>RegisterExchangePart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportBadPart.xaml.cs">
+      <DependentUpon>ReportBadPart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportProgramPart.xaml.cs">
+      <DependentUpon>ReportProgramPart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportProgramService.xaml.cs">
+      <DependentUpon>ReportProgramService.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSetting.xaml.cs">
+      <DependentUpon>ReportSetting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Setting.xaml.cs">
+      <DependentUpon>Setting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowStatusDevice.xaml.cs">
+      <DependentUpon>ShowStatusDevice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowStatusDevice_TypeDevice.xaml.cs">
+      <DependentUpon>ShowStatusDevice_TypeDevice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowListPart_ExchangePart.xaml.cs">
+      <DependentUpon>ShowListPart_ExchangePart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HardwareStatus.xaml.cs">
+      <DependentUpon>HardwareStatus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowDevice_ExchangePart.xaml.cs">
+      <DependentUpon>ShowDevice_ExchangePart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Page Include="ActiveService_Kilometer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ActiveService_Time.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddWorking.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Alarm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FilterGrid.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoginForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegisterSpecialService.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ResetWorking.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowListDevice_ChangeStatus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegisterChangeStatus_Device.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowListDevice_ShowProfile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Loading.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MessageBox_ConfirmService.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MessageBox_SelectForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PrintProfile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowListPart_RegisterProgram.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegisterProgramService.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegisterGroup.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegisterPart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegisterChangeList_DeviceStauts.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegisterProgramingPart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RegisterExchangePart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportBadPart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportProgramPart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportProgramService.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReportSetting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resourcebtn_editdelete.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resourcebtn_paging.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Setting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowStatusDevice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowStatusDevice_TypeDevice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowListPart_ExchangePart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Simple Styles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="HardwareStatus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Templates\DynamicReport.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Templates\template_report.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowDevice_ExchangePart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <AppDesigner Include="Properties\" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Application.ico">
+      <Visible>false</Visible>
+    </None>
+    <None Include="DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BlendEmbeddedFont Include="Fonts\tahoma.ttf">
+      <IsSystemFont>True</IsSystemFont>
+      <All>True</All>
+      <AutoFill>True</AutoFill>
+    </BlendEmbeddedFont>
+    <BlendEmbeddedFont Include="Fonts\tahomabd.ttf">
+      <IsSystemFont>True</IsSystemFont>
+      <All>True</All>
+      <AutoFill>True</AutoFill>
+    </BlendEmbeddedFont>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\activeservice.png" />
+    <Resource Include="images\activeservice_ki.png" />
+    <Resource Include="images\activeservice_time.png" />
+    <Resource Include="images\alert.png" />
+    <Resource Include="images\attach.png" />
+    <Resource Include="images\badlot.png" />
+    <Resource Include="images\changestatus.png" />
+    <Resource Include="images\changestatus_list.png" />
+    <Resource Include="images\Delete.png" />
+    <Resource Include="images\Edit.gif" />
+    <Resource Include="images\edit.png" />
+    <Resource Include="images\excel.png" />
+    <Resource Include="images\export.png" />
+    <Resource Include="images\exportexcel.png" />
+    <Resource Include="images\exportpdf.png" />
+    <Resource Include="images\exportword.png" />
+    <Resource Include="images\firstpage.png" />
+    <Resource Include="images\firstpage2.png" />
+    <Resource Include="images\lastpage.png" />
+    <Resource Include="images\nextpage.png" />
+    <Resource Include="images\ok.png" />
+    <Resource Include="images\ok3.png" />
+    <Resource Include="images\previouspage.png" />
+    <Resource Include="images\print.png" />
+    <Resource Include="images\program.png" />
+    <Resource Include="images\programlot.png" />
+    <Resource Include="images\programsevice.png" />
+    <Resource Include="images\registerlot.png" />
+    <Resource Include="images\report_badlot.png" />
+    <Resource Include="images\report_lot.png" />
+    <Resource Include="images\report_service.png" />
+    <Resource Include="images\select.png" />
+    <Resource Include="images\show.png" />
+    <Resource Include="images\show_statusdevice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\noicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\noimage.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\specialservice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\servicecycle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\filter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\cycleservice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\cyclepart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\hardware.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\showgrid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\Time-Machine-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\kilometer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\login.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath32)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Expression\Blend\.NETFramework\v4.0\Microsoft.Expression.Blend.WPF.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	     Other similar extension points exist, see Microsoft.Common.targets.
+	<Target Name="BeforeBuild">
+	</Target>
+	<Target Name="AfterBuild">
+	</Target>
+	-->
+</Project>

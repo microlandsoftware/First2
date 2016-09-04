@@ -1,0 +1,19 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:Custom="http://schemas.microsoft.com/wpf/2008/toolkit" x:Class="maintenance.FilterGrid"
+         Title="فیلتر نمایش" Height="143" Width="509" Background="#FFE1E9F1" Loaded="Window_Loaded" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+        <Label Width="73" VerticalAlignment="Top" Margin="401,13,0,0" Height="30" HorizontalAlignment="Left" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Content=":از تاریخ"/>
+
+        <Custom:DatePicker HorizontalAlignment="Left" Margin="265,15,0,0" x:Name="Text_StartDate"  FontWeight="Bold"   FontSize="12" SelectedDateFormat="Long"  VerticalAlignment="Top" Width="129" Height="26" />
+        <Label Width="73" VerticalAlignment="Top" Margin="162,13,0,0" Height="30" HorizontalAlignment="Left" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Content=":تا تاریخ"/>
+        <Custom:DatePicker HorizontalAlignment="Left" Margin="31,15,0,0" x:Name="Text_EndDate"  FontWeight="Bold"   FontSize="12" SelectedDateFormat="Long"  VerticalAlignment="Top" Width="126" Height="26" />
+        <Rectangle Panel.ZIndex="-1" Width="475" VerticalAlignment="Top" StrokeThickness="0.8" Stroke="Black" RadiusX="4" RadiusY="5" Margin="9,9,0,0" Height="39" HorizontalAlignment="Left" Fill="#FFF4F4F5"/>
+        <Button Content="نمایش" x:Name="Btn_FilterGrid"  HorizontalAlignment="Left" Height="30" Margin="262,65,0,0" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Cursor="Hand"  RenderTransformOrigin="1.104,0.75" Background="#FFFCFCFC" Panel.ZIndex="1" Click="Btn_Filter_Click" />
+        <Button x:Name="Btn_Exit" Content="انصراف" HorizontalAlignment="Left" Height="30" Margin="122,65,0,0" VerticalAlignment="Top" Width="106" FontFamily="B Nazanin" FontWeight="Bold" FontSize="14" Cursor="Hand" RenderTransformOrigin="1.104,0.75" Background="#FFFCFCFC" Panel.ZIndex="1" Click="Btn_Exit_Click"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="41" Margin="110,59,0,0" Stroke="Black" VerticalAlignment="Top" Width="268" RadiusY="5" RadiusX="4" StrokeThickness="0.8"/>
+
+    </Grid>
+</Window>

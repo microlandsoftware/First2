@@ -1,0 +1,90 @@
+﻿<Window x:Class="maintenance.Alarm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="نمایش آلارم ها" Height="671" Width="513" Background="White" WindowStartupLocation="CenterScreen" WindowState="Maximized" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid >
+      <Grid.RowDefinitions>
+        <RowDefinition Height="80*"/>
+        <RowDefinition x:Name="Row2" Height="20*"/>
+      </Grid.RowDefinitions>  
+  
+ 
+
+  <ScrollViewer  Name="ScrollViewer1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  CanContentScroll="True">
+
+    <StackPanel Grid.Row="0" Name="MainGrid" >
+    
+  </StackPanel>
+  </ScrollViewer>  
+    <DataGrid IsReadOnly="true" Grid.Row="1"   AutoGenerateColumns="False" CanUserAddRows="False" FontFamily="B nazanin" FontSize="18px" FontWeight="Normal" FlowDirection="RightToLeft" ItemsSource="{Binding}" x:Name="ProfileGrid_Alaram">
+      <DataGrid.ColumnHeaderStyle>
+        <Style TargetType="{x:Type DataGridColumnHeader}">
+
+          <Setter Property="FontSize" Value="16px"/>
+          <Setter Property="FontWeight" Value="Bold" />
+          <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+      </DataGrid.ColumnHeaderStyle>
+      <DataGrid.Columns>
+        <DataGridTextColumn MinWidth="160" Width="*" Header="نام دستگاه" Binding="{Binding DeviceName}">
+          <DataGridTextColumn.ElementStyle>
+            <Style TargetType="{x:Type TextBlock}">
+              <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+          </DataGridTextColumn.ElementStyle>
+        </DataGridTextColumn>
+        <DataGridTextColumn MinWidth="75" Width="*" Header="نوع آلارم" Binding="{Binding Symbole}">
+          <DataGridTextColumn.ElementStyle>
+            <Style TargetType="{x:Type TextBlock}">
+              <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+          </DataGridTextColumn.ElementStyle>
+        </DataGridTextColumn>
+        <DataGridTextColumn MinWidth="40" Width="*" Header="تاریخ شروع" Binding="{Binding StartDate}">
+          <DataGridTextColumn.ElementStyle>
+            <Style TargetType="{x:Type TextBlock}">
+              <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+          </DataGridTextColumn.ElementStyle>
+        </DataGridTextColumn>
+        <DataGridTextColumn MinWidth="75" Width="*" Header="تاریخ پایان" Binding="{Binding EndDate}">
+          <DataGridTextColumn.ElementStyle>
+            <Style TargetType="{x:Type TextBlock}">
+              <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+          </DataGridTextColumn.ElementStyle>
+        </DataGridTextColumn>
+        <DataGridTextColumn MinWidth="75" Width="*" Header="ساعت شروع" Binding="{Binding StartTime}">
+          <DataGridTextColumn.ElementStyle>
+            <Style TargetType="{x:Type TextBlock}">
+              <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+          </DataGridTextColumn.ElementStyle>
+        </DataGridTextColumn>
+
+        <DataGridTextColumn MinWidth="75" Width="*" Header="ساعت پایان" Binding="{Binding EndTime}">
+          <DataGridTextColumn.ElementStyle>
+            <Style TargetType="{x:Type TextBlock}">
+              <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+          </DataGridTextColumn.ElementStyle>
+        </DataGridTextColumn>
+        <DataGridTextColumn MinWidth="75" Width="*" Header="تعداد روز آلارم" Binding="{Binding DurationDay}">
+          <DataGridTextColumn.ElementStyle>
+            <Style TargetType="{x:Type TextBlock}">
+              <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+          </DataGridTextColumn.ElementStyle>
+        </DataGridTextColumn>
+        <DataGridTextColumn MinWidth="75" Width="*" Header="مدت زمان آلارم" Binding="{Binding Duration}">
+          <DataGridTextColumn.ElementStyle>
+            <Style TargetType="{x:Type TextBlock}">
+              <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+          </DataGridTextColumn.ElementStyle>
+        </DataGridTextColumn>
+
+      </DataGrid.Columns>
+    </DataGrid>
+    </Grid>
+</Window>

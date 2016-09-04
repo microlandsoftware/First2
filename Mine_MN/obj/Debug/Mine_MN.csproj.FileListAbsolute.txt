@@ -1,0 +1,717 @@
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\maintenance.exe.config
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\maintenance.exe
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\maintenance.pdb
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Expression.Effects.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\System.Windows.Interactivity.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\ADODB.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Expression.Effects.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\System.Windows.Interactivity.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Mine_MN.csprojResolveAssemblyReference.cache
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ActiveService_Kilometer.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ActiveService_Time.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\AddWorking.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Alarm.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\FilterGrid.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\LoginForm.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterSpecialService.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterChangeStatus_Device.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Loading.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\MainWindow.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\MessageBox_ConfirmService.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\MessageBox_SelectForm.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\PrintProfile.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterProgramService.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterGroup.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterPart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterProgramingPart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterExchangePart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ReportBadPart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ReportProgramPart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ReportProgramService.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ReportSetting.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Resourcebtn_editdelete.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Resourcebtn_paging.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Setting.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowStatusDevice.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowListPart_ExchangePart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Simple Styles.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\HardwareStatus.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Templates\DynamicReport.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Templates\template_report.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowDevice_ExchangePart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\App.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ActiveService_Kilometer.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ActiveService_Time.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\AddWorking.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Alarm.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\FilterGrid.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\LoginForm.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterSpecialService.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterChangeStatus_Device.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Loading.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\MainWindow.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\MessageBox_ConfirmService.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\MessageBox_SelectForm.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\PrintProfile.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterProgramService.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterGroup.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterPart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterProgramingPart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\RegisterExchangePart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ReportBadPart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ReportProgramPart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ReportProgramService.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ReportSetting.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\Setting.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowStatusDevice.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowListPart_ExchangePart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\HardwareStatus.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\ShowDevice_ExchangePart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\App.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\maintenance_MarkupCompile.cache
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\maintenance.g.resources
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\maintenance.exe
+D:\Original\Mine\net fianl\Mine_MN\obj\Debug\maintenance.pdb
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\maintenance.exe.config
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\maintenance.exe
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\maintenance.pdb
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\maintenance.exe
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\maintenance.pdb
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\System.Windows.Controls.Ribbon.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\ADODB.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\System.Windows.Controls.Ribbon.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Mine_MN.csprojResolveAssemblyReference.cache
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ActiveService_Kilometer.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ActiveService_Time.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\AddWorking.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Alarm.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\FilterGrid.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\LoginForm.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterSpecialService.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterChangeStatus_Device.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Loading.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\MainWindow.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\MessageBox_ConfirmService.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\MessageBox_SelectForm.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\PrintProfile.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterProgramService.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterGroup.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterPart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterProgramingPart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterExchangePart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ReportBadPart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ReportProgramPart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ReportProgramService.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ReportSetting.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Resourcebtn_editdelete.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Resourcebtn_paging.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Setting.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowStatusDevice.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowListPart_ExchangePart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Simple Styles.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\HardwareStatus.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Templates\DynamicReport.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Templates\template_report.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowDevice_ExchangePart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\App.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ActiveService_Kilometer.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ActiveService_Time.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\AddWorking.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Alarm.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\FilterGrid.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\LoginForm.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterSpecialService.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterChangeStatus_Device.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Loading.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\MainWindow.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\MessageBox_ConfirmService.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\MessageBox_SelectForm.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\PrintProfile.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterProgramService.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterGroup.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterPart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterProgramingPart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\RegisterExchangePart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ReportBadPart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ReportProgramPart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ReportProgramService.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ReportSetting.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\Setting.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowStatusDevice.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowListPart_ExchangePart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\HardwareStatus.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\ShowDevice_ExchangePart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\App.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\maintenance_MarkupCompile.cache
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Debug\maintenance.g.resources
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\maintenance.exe.config
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\maintenance.exe
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\maintenance.pdb
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\maintenance.exe
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\maintenance.pdb
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Effects.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\System.Windows.Interactivity.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\ADODB.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Effects.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\System.Windows.Interactivity.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Mine_MN.csprojResolveAssemblyReference.cache
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Kilometer.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Time.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\AddWorking.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Alarm.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\FilterGrid.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\LoginForm.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterSpecialService.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeStatus_Device.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Loading.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\MainWindow.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_ConfirmService.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_SelectForm.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\PrintProfile.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramService.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterGroup.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterPart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramingPart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterExchangePart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ReportBadPart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramPart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramService.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ReportSetting.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Resourcebtn_editdelete.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Resourcebtn_paging.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Setting.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_ExchangePart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Simple Styles.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\HardwareStatus.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Templates\DynamicReport.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Templates\template_report.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowDevice_ExchangePart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\App.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Kilometer.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Time.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\AddWorking.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Alarm.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\FilterGrid.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\LoginForm.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterSpecialService.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeStatus_Device.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Loading.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\MainWindow.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_ConfirmService.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_SelectForm.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\PrintProfile.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramService.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterGroup.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterPart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramingPart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterExchangePart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ReportBadPart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramPart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramService.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ReportSetting.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\Setting.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_ExchangePart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\HardwareStatus.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\ShowDevice_ExchangePart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\App.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\maintenance_MarkupCompile.cache
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Debug\maintenance.g.resources
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\maintenance.exe.config
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\maintenance.exe
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\maintenance.pdb
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\maintenance.exe
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\maintenance.pdb
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Effects.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\System.Windows.Interactivity.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\ADODB.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Effects.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\System.Windows.Interactivity.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Mine_MN.csprojResolveAssemblyReference.cache
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Kilometer.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Time.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\AddWorking.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Alarm.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\FilterGrid.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\LoginForm.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterSpecialService.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeStatus_Device.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Loading.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\MainWindow.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_ConfirmService.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_SelectForm.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\PrintProfile.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramService.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterGroup.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterPart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramingPart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterExchangePart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ReportBadPart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramPart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramService.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ReportSetting.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Resourcebtn_editdelete.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Resourcebtn_paging.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Setting.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_ExchangePart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Simple Styles.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\HardwareStatus.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Templates\DynamicReport.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Templates\template_report.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowDevice_ExchangePart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\App.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Kilometer.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Time.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\AddWorking.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Alarm.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\FilterGrid.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\LoginForm.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterSpecialService.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeStatus_Device.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Loading.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\MainWindow.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_ConfirmService.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_SelectForm.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\PrintProfile.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramService.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterGroup.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterPart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramingPart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\RegisterExchangePart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ReportBadPart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramPart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramService.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ReportSetting.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\Setting.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_ExchangePart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\HardwareStatus.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\ShowDevice_ExchangePart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\App.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\maintenance_MarkupCompile.cache
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Debug\maintenance.g.resources
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\maintenance.exe.config
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\maintenance.exe
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\maintenance.pdb
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\maintenance.exe
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\maintenance.pdb
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Effects.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Base.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Database.Wpf.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.BlackTheme.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Design.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.WpfDesign.Design.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.WpfDesign.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\System.Windows.Interactivity.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Check.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Helper.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Effects.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Base.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Database.Wpf.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.WpfDesign.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\System.Windows.Interactivity.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Check.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Helper.xml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Mine_MN.csprojResolveAssemblyReference.cache
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Kilometer.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Time.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\AddWorking.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Alarm.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\FilterGrid.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\LoginForm.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterSpecialService.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeStatus_Device.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Loading.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MainWindow.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_ConfirmService.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_SelectForm.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\PrintProfile.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramService.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterGroup.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterPart.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramingPart.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterExchangePart.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportBadPart.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramPart.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramService.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportSetting.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Resourcebtn_editdelete.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Resourcebtn_paging.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Setting.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_ExchangePart.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Simple Styles.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\HardwareStatus.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Templates\DynamicReport.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Templates\template_report.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowDevice_ExchangePart.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Window1.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\App.baml
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Kilometer.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Time.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\AddWorking.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Alarm.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\FilterGrid.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\LoginForm.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterSpecialService.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeStatus_Device.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Loading.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MainWindow.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_ConfirmService.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_SelectForm.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\PrintProfile.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramService.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterGroup.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterPart.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramingPart.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterExchangePart.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportBadPart.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramPart.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramService.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportSetting.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Setting.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_ExchangePart.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\HardwareStatus.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowDevice_ExchangePart.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Window1.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\App.g.cs
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\maintenance_MarkupCompile.cache
+E:\backup\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\maintenance.g.resources
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\maintenance.exe.config
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\maintenance.exe
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\maintenance.pdb
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\maintenance.exe
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\maintenance.pdb
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Effects.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Base.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Database.Wpf.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.BlackTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Design.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.WpfDesign.Design.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.WpfDesign.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\System.Windows.Interactivity.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Check.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Helper.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Effects.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Base.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Database.Wpf.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Wpf.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.WpfDesign.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\System.Windows.Interactivity.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Check.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\Stimulsoft.Report.Helper.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Mine_MN.csprojResolveAssemblyReference.cache
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Kilometer.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Time.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\AddWorking.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Alarm.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\FilterGrid.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\LoginForm.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterSpecialService.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeStatus_Device.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Loading.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MainWindow.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_ConfirmService.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_SelectForm.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\PrintProfile.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramService.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterGroup.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterPart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramingPart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterExchangePart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportBadPart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramPart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramService.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportSetting.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Resourcebtn_editdelete.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Resourcebtn_paging.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Setting.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_ExchangePart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Simple Styles.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\HardwareStatus.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Templates\DynamicReport.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Templates\template_report.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowDevice_ExchangePart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Window1.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\App.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Kilometer.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ActiveService_Time.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\AddWorking.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Alarm.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\FilterGrid.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\LoginForm.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterSpecialService.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ChangeStatus.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeStatus_Device.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListDevice_ShowProfile.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Loading.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MainWindow.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_ConfirmService.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\MessageBox_SelectForm.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\PrintProfile.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_RegisterProgram.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramService.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterGroup.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterPart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterChangeList_DeviceStauts.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterProgramingPart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\RegisterExchangePart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportBadPart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramPart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportProgramService.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ReportSetting.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Setting.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowStatusDevice_TypeDevice.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowListPart_ExchangePart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\HardwareStatus.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ShowDevice_ExchangePart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\Window1.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\App.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\maintenance_MarkupCompile.cache
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\maintenance.g.resources
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ResetWorking.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Debug\ResetWorking.g.cs
+C:\Users\Hamid\Documents\GitHub\First2\Mine_MN\bin\Debug\maintenance.exe.config
+C:\Users\Hamid\Documents\GitHub\First2\Mine_MN\obj\Debug\maintenance.exe
+C:\Users\Hamid\Documents\GitHub\First2\Mine_MN\obj\Debug\maintenance.pdb

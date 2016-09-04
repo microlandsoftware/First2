@@ -1,0 +1,1384 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:RibbonWin="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Ribbon" mc:Ignorable="d"
+	  
+    x:Class="maintenance.MainWindow"
+	
+	Title="خدمات فنی" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="MainWindow1" WindowState="Maximized" Background="#FFE4F0F7"  Loaded="Window_Loaded" WindowStyle="SingleBorderWindow"  Closing="Window_Closing_1">
+
+
+    <Grid x:Name="ManiGrid" DragOver="Grid_DragOver" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition x:Name="Row2" Height="auto" MinHeight="8"/>
+            <RowDefinition x:Name="Row3" Height="auto"/>
+            <RowDefinition x:Name="Row4" Height="373*"/>
+            <RowDefinition x:Name="Row5" Height="66*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="Column1"/>
+            <ColumnDefinition x:Name="Column2"/>
+        </Grid.ColumnDefinitions>
+
+
+
+
+
+
+
+
+        <StackPanel Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Margin="2,-5,-2,5" >
+
+            <Ribbon x:Name="RibbonWin"      FlowDirection="RightToLeft"   SelectedIndex="0" Width="auto" FontFamily="B nazanin" FontWeight="Bold" Cursor="Hand" FontSize="16px">
+
+                <Ribbon.ApplicationMenu   >
+                    <RibbonApplicationMenu x:Name="TopMenu" >
+                        <RibbonApplicationMenuItem  ImageSource="images/registerlot.png"  >
+                            <RibbonApplicationMenuItem.Header >
+                                <Menu  IsMainMenu="True"  Background="White"  FlowDirection="RightToLeft" Height="27"  VerticalAlignment="Top" Margin="0,10,5,0" HorizontalAlignment="Right" Width="auto" FontFamily="B nazanin" FontWeight="Bold" Cursor="Hand" FontSize="16px" >
+
+                                    <MenuItem x:Name="Menu_SelectDeviceBothService"    Cursor="Hand" >
+                                        <MenuItem.Header>
+                                            هر دو
+                                        </MenuItem.Header>
+                                    </MenuItem>
+                                </Menu>
+                            </RibbonApplicationMenuItem.Header>
+                        </RibbonApplicationMenuItem>
+
+                        <RibbonApplicationMenuItem ImageSource="images/cycleservice.png"  >
+                            <RibbonApplicationMenuItem.Header>
+                                <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                                    <Menu  IsMainMenu="True"  Background="Transparent"  FlowDirection="RightToLeft" Height="27"  VerticalAlignment="Top" Margin="0,10,5,0" HorizontalAlignment="Right" Width="auto" FontFamily="B nazanin" FontWeight="Bold" Cursor="Hand" FontSize="16px" >
+
+                                        <MenuItem  x:Name="Menu_SelectServiceCycle"    Cursor="Hand" >
+                                            <MenuItem.Header>
+                                                سرویس های دوره ای
+                                            </MenuItem.Header>
+                                        </MenuItem>
+                                    </Menu>
+                                </StackPanel>
+                            </RibbonApplicationMenuItem.Header>
+                        </RibbonApplicationMenuItem>
+
+                        <RibbonApplicationMenuItem ImageSource="images/cyclepart.png"  >
+                            <RibbonApplicationMenuItem.Header>
+                                <Menu  IsMainMenu="True"   Background="Transparent"  FlowDirection="RightToLeft" Height="27"  VerticalAlignment="Top" Margin="0,10,5,0" HorizontalAlignment="Right" Width="auto" FontFamily="B nazanin" FontWeight="Bold" Cursor="Hand" FontSize="16px" >
+
+                                    <MenuItem Tag="all,0"  x:Name="Menu_SelectServicePart" Header="سرویس قطعات" />
+                                </Menu>
+                            </RibbonApplicationMenuItem.Header>
+                        </RibbonApplicationMenuItem>
+
+
+                    </RibbonApplicationMenu>
+                </Ribbon.ApplicationMenu>
+
+                <!-- Ribbon Tab #1: Home -->
+                <RibbonTab Header="وضعیت ها" >
+                    <RibbonGroup >
+                        <RibbonGroup >
+                            <RibbonButton   HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="ShowProfileWindow"  Margin="0,20,0,0" Label="پروفایل دستگاه" />
+                         </RibbonGroup >
+                        
+                  <!--      <RibbonButton   HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,20,0,0"  Click="ShowHardWareStatus"  Label="وضعیت سخت افزار ها" />  -->
+                        <RibbonGroup >
+                            <RibbonButton   HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,20,0,0" Click="ShowAlarm"  Label="آلارم ها" />
+                         </RibbonGroup >
+
+                                <!-- Home  group-->
+                 
+                        <RibbonMenuButton   HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Margin="0,20,0,0"  Label="نمایش" >
+                           <!-- <RibbonMenuItem   IsCheckable="True" x:Name="MnuItem_ProgramPart"  IsChecked="True" Click="ChangeVisibleGridPart"  Header="برنامه قطعات" />
+                            <RibbonMenuItem  IsCheckable="True" IsChecked="True" x:Name="MenuItem_ProgramService"  Click="ChangeVisibleGridService"   Header="برنامه سرویس ها" />
+                            <RibbonMenuItem  IsCheckable="True" IsChecked="True" Click="ShowTabDevice" Header="نمایش دستگاه ها" /> -->
+                            <Menu IsMainMenu="True" FontFamily="B nazanin" FontWeight="Bold" Cursor="Hand" FontSize="12">
+                                <MenuItem Background="White" Header="برنامه قطعات" IsChecked="True" Cursor="Hand" x:Name="MnuItem_ProgramPart" Click="ChangeVisibleGridPart" />
+                                <MenuItem Background="White" Header="برنامه سرویس ها" IsChecked="True" Cursor="Hand" x:Name="MenuItem_ProgramService" Click="ChangeVisibleGridService"    />
+                                <MenuItem Background="White" Header="نمایش دستگاه ها" IsChecked="True" Cursor="Hand" Click="ShowTabDevice"  />
+                            </Menu>
+                        </RibbonMenuButton>
+
+                    </RibbonGroup>
+
+                    <!-- Employee And Payroll group-->
+
+                </RibbonTab>
+
+                <RibbonTab Header="وضعیت دستگاه ها">
+                    <RibbonGroup >
+                        <RibbonButton   HorizontalAlignment="Stretch" VerticalAlignment="Stretch"   Margin="0,20,0,0" Label="نمایش وضعیت بر اساس خرابی" Click="ShowDeviceStatus" Cursor="Hand"  />
+                    </RibbonGroup>
+                    <RibbonGroup >
+                        <RibbonButton HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Margin="0,20,0,0" Label="نمایش وضعیت بر اساس نوع دستگاه" Click="ShowDeviceStatusTypeMachin" Cursor="Hand" />
+                    </RibbonGroup>
+                    <RibbonGroup >
+                    <RibbonButton  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Margin="0,20,0,0" Label="تغییر وضعیت(موردی)" Click="ChangeStatusDevice" Cursor="Hand" />
+                    </RibbonGroup >
+                    <RibbonGroup >
+                        <RibbonButton  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Margin="0,20,0,0" Label="تغییر وضعیت(لیستی)" Click="ChangeListStatusDevice" Cursor="Hand" />
+                    </RibbonGroup>
+
+
+                </RibbonTab>
+
+                <RibbonTab Header="گزارش ها">
+                    <RibbonGroup >
+                        <RibbonButton  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Click="ReportProgramService_Click"  Margin="0,20,0,0" Label="سرویس بازدید" Cursor="Hand"  />
+                    </RibbonGroup >
+                    <RibbonGroup >
+                        <RibbonButton  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Click="ReportProgramPart_Click"  Margin="0,20,0,0" Label="سرویس قطعات" Cursor="Hand" />
+                    </RibbonGroup >
+                      <RibbonGroup >
+                            <RibbonButton  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Click="ReportBadPart_Click" Margin="0,20,0,0" Label="خرابی قطعه" Cursor="Hand" />
+                    </RibbonGroup>
+                    
+
+                </RibbonTab>
+
+
+               
+                <RibbonTab Header="تنظیمات" >
+                    <RibbonGroup >
+                        <RibbonMenuButton  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  Margin="0,20,0,0"  Label="برنامه قطعات" >
+                            <RibbonMenuItem Cursor="Hand" Click="RegisterPart_Click"  Header="ثبت قطعات" />
+                            <RibbonMenuItem Cursor="Hand"   Click="DefineProgramingPart_Click"  Header="تعریف برنامه قطعات" />
+                            <RibbonMenuItem  Cursor="Hand"  Click="ExchangePart_Click" Header="خرابی قطعه" />
+                        </RibbonMenuButton>
+                     </RibbonGroup >
+                    <RibbonGroup >
+                        <RibbonMenuButton  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"   Margin="0,20,0,0"  Label="سرویس های دوره ای" >
+                            <RibbonMenuItem Cursor="Hand" Click="DefineVisitService_Click"  Header="تعریف سرویس بازدید" />
+                            <RibbonMenuItem  Cursor="Hand" Click="DefineSpecialService_Click"  Header="تعریف سرویس خاص" />
+                            <RibbonMenuItem Cursor="Hand" Click="ActiveServiceTime_Click" Header="فعالسازی سرویس های ساعت" />
+                            <RibbonMenuItem Cursor="Hand" Click="ActiveServiceKilometer_Click"  Header="فعالسازی سرویس های کیلومتر" />
+                            <RibbonMenuItem Cursor="Hand" Click="AddWorking_Click"  Header="افزودن کار کرد دستی" />
+                          <RibbonMenuItem Cursor="Hand" Click="ResetWorking_Click"  Header="تنظیم مجدد کارکرد دستگاه" />
+                        </RibbonMenuButton>
+                    </RibbonGroup >
+                    <RibbonGroup >
+                            <RibbonButton  HorizontalAlignment="Stretch" Click="Setting_Click"    VerticalAlignment="Stretch"   Margin="0,20,0,0"  Label="تنظیمات" />
+                    </RibbonGroup >
+                    <RibbonGroup >
+                        <RibbonButton  HorizontalAlignment="Stretch" Click="RegisterGroup_Click" VerticalAlignment="Stretch"  Margin="0,20,0,0"  Label="تعریف گروه" />
+                    </RibbonGroup>
+
+                </RibbonTab>
+            </Ribbon>
+
+       <!--     <Menu Visibility="Hidden"  IsMainMenu="True" x:Name="MainMenu"  Background="Transparent"  FlowDirection="RightToLeft" Height="27"  VerticalAlignment="Top" Margin="0,10,5,0" HorizontalAlignment="Right" Width="auto" FontFamily="B nazanin" FontWeight="Bold" Cursor="Hand" FontSize="16px" >
+
+
+                <MenuItem x:Name="Menu_SelectDeviceBothService" Margin="2,2,5,2" Cursor="Hand"  Width="27">
+                    <MenuItem.Header>
+                        <TextBlock>▼</TextBlock>
+                    </MenuItem.Header>
+                </MenuItem>
+              
+                <MenuItem  x:Name="Menu_SelectServiceCycle"  Header="سرویس های دوره ای" />
+                <MenuItem Tag="all,0"  x:Name="Menu_SelectServicePart" Header="سرویس قطعات" />
+                <MenuItem Click="ShowProfileWindow"   Header="پروفایل دستگاه"/>
+                <MenuItem Header="وضعیت دستگاه ها">
+                    <MenuItem Header="نمایش وضعیت بر اساس خرابی" Cursor="Hand" Click="ShowDeviceStatus">
+                        <MenuItem.Icon>
+                            <Image  Width="16" Height="20"  Source="images\show_statusdevice.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="نمایش وضعیت بر اساس نوع دستگاه" Cursor="Hand" Click="ShowDeviceStatusTypeMachin">
+                        <MenuItem.Icon>
+                            <Image  Width="16" Height="20"  Source="images\show_statusdevice.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="تغییر وضعیت(موردی)" Cursor="Hand" Click="ChangeStatusDevice" >
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="20"  Source="images\changestatus.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="تغییر وضعیت(لیستی)" Cursor="Hand" Click="ChangeListStatusDevice" >
+
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="20"   Source="images\changestatus_list.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+
+
+                <MenuItem Header="وضعیت سخت افزار ها" Click="ShowHardWareStatus" />
+                <MenuItem Header="آلارم ها" Click="ShowAlarm" />
+                <MenuItem Header="نمایش">
+                    <MenuItem Header="برنامه قطعات" IsChecked="True" Cursor="Hand" x:Name="MnuItem_ProgramPart" Click="ChangeVisibleGridPart" />
+                    <MenuItem Header="برنامه سرویس ها" IsChecked="True" Cursor="Hand" x:Name="MenuItem_ProgramService" Click="ChangeVisibleGridService"    />
+                    <MenuItem Header="نمایش دستگاه ها" IsChecked="True" Cursor="Hand" Click="ShowTabDevice"  />
+                </MenuItem>
+
+                <MenuItem Header="گزارش ها">
+                    <MenuItem Header="سرویس های بازدید"  Cursor="Hand" x:Name="ReportProgramService" Click="ReportProgramService_Click" >
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="20"  Source="images\report_service.png" />
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+                    <MenuItem Header="سرویس های قطعات"  Cursor="Hand" x:Name="ReportProgramPart" Click="ReportProgramPart_Click" >
+
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="20"  Source="images\report_lot.png" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="خرابی قطعات"  Cursor="Hand" x:Name="ReportBadPart" Click="ReportBadPart_Click" >
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="20"   Source="images\report_badlot.png" />
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="تنظیمات اولیه">
+                    <MenuItem Cursor="Hand"  Header="برنامه قطعات">
+                        <MenuItem.Icon >
+                            <Image  Width="16" Height="20"  Source="images\registerlot.png" />
+                        </MenuItem.Icon>
+
+                        <MenuItem Header="ثبت قطعات"   x:Name="RegisterPart" Cursor="Hand" Click="RegisterPart_Click">
+                            <MenuItem.Icon >
+
+                                <Image  Width="16" Height="20"  Source="images\registerlot.png" />
+
+                            </MenuItem.Icon>
+
+                        </MenuItem>
+                        <MenuItem x:Name="DefineProgramPart"  Click="DefineProgramingPart_Click" Cursor="Hand"  Header="تعریف برنامه قطعات">
+                            <MenuItem.Icon>
+
+                                <Image Width="16" Height="20"  Source="images\programlot.png" />
+
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem x:Name="ExchangePart"  Click="ExchangePart_Click" Cursor="Hand"  Header="خرابی قطعه">
+                            <MenuItem.Icon>
+                                <Image  Width="16" Height="20"  Source="images\badlot.png" />
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </MenuItem>
+
+                    <MenuItem Cursor="Hand" Header="سرویس های دوره ای" >
+                        <MenuItem.Icon>
+                            <Image  Width="16" Height="20"  Source="images\servicecycle.png" />
+                        </MenuItem.Icon>
+                        <MenuItem Header="تعریف سرویس بازدید" x:Name="DefineVisitService" Cursor="Hand" Click="DefineVisitService_Click">
+                            <MenuItem.Icon>
+                                <Image Width="16" Height="20"   Source="images\programsevice.png" />
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem Header="تعریف سرویس خاص" x:Name="DefineSpecialService" Cursor="Hand" Click="DefineSpecialService_Click">
+                            <MenuItem.Icon>
+                                <Image Width="16" Height="20"   Source="images\specialservice.png" />
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem Header="فعالسازی سرویس های ساعت" x:Name="ActiveServiceTime" Cursor="Hand" Click="ActiveServiceTime_Click">
+                            <MenuItem.Icon>
+                                <Image Width="16" Height="20"   Source="images\activeservice_time.png" />
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem Header="فعالسازی سرویس های کیلومتر" x:Name="ActiveServiceKilometer" Cursor="Hand" Click="ActiveServiceKilometer_Click">
+                            <MenuItem.Icon>
+                                <Image Width="16" Height="20"  Source="images\activeservice_ki.png" />
+                            </MenuItem.Icon>
+
+                        </MenuItem>
+
+                    </MenuItem>
+                    <MenuItem  Click="Setting_Click"  Cursor="Hand" Header="تنظیمات">
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="20"  Source="images\setting.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem x:Name="RegisterGroup" Cursor="Hand" Click="RegisterGroup_Click" Header="تعریف گروه کاربری">
+                        <MenuItem.Icon>
+                            <Image Width="16" Height="20"  Source="images\group.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                </MenuItem>
+
+            </Menu> -->
+            
+        </StackPanel>
+        <TabControl x:Name="TabDefineService" Visibility="Hidden" Cursor="Hand" Grid.Row="1" Grid.ColumnSpan="2"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" FlowDirection="RightToLeft" Width="auto" FontFamily="B nazanin" FontWeight="Bold" FontSize="16px" Margin="0,0,0,0" />
+
+        <DataGrid IsReadOnly="true" x:Name="Grid_ProgramService" AutoGenerateColumns="False" FontFamily="B nazanin"  FontSize="18px" FontWeight="Normal"  CanUserAddRows="False" FlowDirection="RightToLeft" ColumnWidth="auto" Loaded="Grid_ProgramService_Loaded" LoadingRow="Grid_ProgramService_LoadingRow" LoadingRowDetails="Grid_ProgramService_LoadingRowDetails" Margin="1,24,-1,1" Grid.RowSpan="2" Grid.Column="1" Grid.Row="2" >
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                    <Setter Property="FontSize" Value="16px"/>
+                    <Setter Property="FontWeight" Value="Bold" />
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn MinWidth="130" Width="*" Header="نام دستگاه" Binding="{Binding DeviceName}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="100" Width="*" Header="نام برند" Binding="{Binding BrandName}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="95" Width="*" Header="نام مدل" Binding="{Binding ModelName}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="180" Width="*" Header="عنوان بازدید" Binding="{Binding ServiceTitle}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <!-- <DataGridTextColumn MinWidth="35" Width="*" Header="میزان کارکرد" Binding="{Binding function_service}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="35" Width="*" Header="کارکرد کل" Binding="{Binding totalwork}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn MinWidth="35" Width="*" Header="کار کرد در سرویس" Binding="{Binding WorkingInService}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>-->
+                <DataGridTextColumn MinWidth="35" Width="*" Header="کارکرد کل" Binding="{Binding SumTotalWork}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="40" Width="*" Header="تاریخ ایجاد" Binding="{Binding CreateDate}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="40" Width="*" Header="ساعت ایجاد" Binding="{Binding CreateTime}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+
+
+                <DataGridTemplateColumn  MaxWidth="50"   Header="نمایش" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma"   Style="{DynamicResource btn_editdelete}" Tag="{Binding CreateServiceCode}" Click="ShowFile"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush  ImageSource="images\show.png"/>
+                                    </Button.Background>
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn  MaxWidth="50"   Header="ضمیمه فابل" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma"   Style="{DynamicResource btn_editdelete}" Tag="{Binding CreateServiceCode}" Click="AttachFile"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush  ImageSource="images\attach.png"/>
+                                    </Button.Background>
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn  MaxWidth="50"   Header="تایید" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma"   Style="{DynamicResource btn_editdelete}" Tag="{Binding CreateServiceCode}" Click="VerificationServiceCycle"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush  ImageSource="images\ok.png"/>
+                                    </Button.Background>
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+
+
+
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid IsReadOnly="true" Grid.Column="0" Grid.Row="3"  AutoGenerateColumns="False" CanUserAddRows="False" FontFamily="B nazanin" FontSize="18px" FontWeight="Normal" FlowDirection="RightToLeft" ItemsSource="{Binding}"  x:Name="Grid_ProgramPart" SelectionChanged="Grid_ProgramPart_SelectionChanged" LoadingRow="Grid_ProgramPart_LoadingRow">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                    <Setter Property="FontSize" Value="16px"/>
+                    <Setter Property="FontWeight" Value="Bold" />
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn MinWidth="150" Width="*" Header="نام دستگاه" Binding="{Binding DeviceName}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="110" Width="*" Header="نام برند" Binding="{Binding BrandName}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="80" Width="*" Header="نام مدل" Binding="{Binding ModelName}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="160" Width="*" Header="نام قطعه" Binding="{Binding PartName}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <!--<DataGridTextColumn MinWidth="40" Width="*" Header="میزان کارکرد" Binding="{Binding function_lot}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="40" Width="*" Header="کارکرد کل" Binding="{Binding totalwork}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>-->
+                <DataGridTextColumn MinWidth="40" Width="*" Header="کارکرد کل" Binding="{Binding SumTotalWork}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="75" Width="*" Header="نوع فعالیت" Binding="{Binding TypeActivity}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="70" Width="*" Header="تاریخ ایجاد" Binding="{Binding CreateDate}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn MinWidth="70" Width="*" Header="ساعت ایجاد" Binding="{Binding CreateTime}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTemplateColumn  Width="*" MaxWidth="50"  Header="تایید" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma" Style="{DynamicResource btn_editdelete}" Tag="{Binding CreatePartCode}" Click="VerificationPart"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush ImageSource="images\ok.png"/>
+                                    </Button.Background>
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <ScrollViewer  Name="ScrollViewer1" VerticalScrollBarVisibility="Disabled" HorizontalScrollBarVisibility="Auto" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"  CanContentScroll="True">
+            <TabControl x:Name="Tab_ShowDeviceService" SelectedValuePath="Tag" VerticalAlignment="Bottom" FontFamily="b nazanin" Cursor="Hand" FontWeight="Bold" FontSize="14px" HorizontalAlignment="Left" Grid.Row="4" Grid.Column="0" Height="auto"  Grid.ColumnSpan="2"  Width="auto" d:LayoutOverrides="GridBox"/>
+        </ScrollViewer>
+
+
+        <GridSplitter Grid.Column="0" Grid.RowSpan="3" Grid.Row="2"  Width="10" Background="Transparent"  HorizontalAlignment="Right"  VerticalAlignment="Stretch"   />
+
+        <GridSplitter Grid.Row="4" Grid.ColumnSpan="2" Background="Transparent" Height="10" HorizontalAlignment="Stretch" VerticalAlignment="Top"  />
+        <Rectangle x:Name="BackgroundTitlePart" Fill="Black" HorizontalAlignment="Stretch" FlowDirection="RightToLeft"   Height="25" Grid.Row="2" Grid.Column="0"  Margin="0,0,0,0"    RadiusY="3" RadiusX="3"  Stroke="Aqua" StrokeThickness="0.8" VerticalAlignment="Top"/>
+
+        <TextBlock x:Name="TextTitle_ProgramPart" Text="برنامه سرویس قطعات" Grid.Row="2" FlowDirection="RightToLeft" Grid.Column="0" TextAlignment="Center"  Foreground="White" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="7,0,5,1" FontFamily="B nazanin" FontWeight="Bold" FontSize="16"  />
+
+        <Rectangle x:Name="BackgroundTitleService" Fill="Black" HorizontalAlignment="Stretch"  FlowDirection="RightToLeft"  Height="25" Grid.Row="2" Grid.Column="1"  Margin="0,0,0,0"    RadiusY="3" RadiusX="3"  Stroke="Aqua" StrokeThickness="0.8" VerticalAlignment="Top"/>
+
+        <TextBlock x:Name="TextTitle_ProgramService" Text="برنامه سرویس دوره ای" Grid.Row="2" Grid.Column="1"   TextAlignment="Center" FlowDirection="RightToLeft"   Foreground="White" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="6,0,4,1" FontFamily="B nazanin" FontWeight="Bold" FontSize="16"  />
+
+
+        <Grid x:Name="Profile" Grid.Row="2" Grid.RowSpan="2"  Visibility="Hidden"   Grid.ColumnSpan="2"  Background="Snow">
+
+            <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="4*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1114*"/>
+                    <ColumnDefinition Width="169*"/>
+                </Grid.ColumnDefinitions>
+
+
+
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.5*"/>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+
+                    </Grid.ColumnDefinitions>
+
+                    <Label x:Name="Text_codedevice" Visibility="Hidden" Content="مشخصات کلی دستگاه:"  FlowDirection="RightToLeft"  HorizontalAlignment="Left" Height="32" Margin="175,6,0,0"  VerticalAlignment="Top" Width="136" FontFamily="B Nazanin" Grid.Row="0" FontSize="16" FontWeight="Bold" Grid.Column="2" Grid.RowSpan="2"/>
+                    <Label Content="نام برند:" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="32"  VerticalAlignment="Top"  FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.Column="2" Grid.Row="1" Margin="0,19,11,0" Grid.RowSpan="2"/>
+                    <Label Content="نام مدل:" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="32"  VerticalAlignment="Top" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.Column="1" Grid.Row="1" Margin="0,19,0,0" Grid.RowSpan="2"/>
+                    <Label Content="نام دستگاه:" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="32"  VerticalAlignment="Top"  FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.Row="1" Margin="0,19,0,0" Grid.RowSpan="2"/>
+
+                    <Label Content="کل کارکرد(کیلومتر):" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="32" Margin="0,21,8,0" VerticalAlignment="Top" Width="120" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.Column="2" Grid.Row="2" Grid.RowSpan="2"/>
+                    <Label Content=" تعداد خرابی قطعه:" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="32" Margin="0,21,0,0" VerticalAlignment="Top"  FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.Row="2" RenderTransformOrigin="0.247,0.45" Width="126" Grid.RowSpan="2"/>
+                    <Label Content="کل کارکرد(ساعت):" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="32" Margin="0,21,1,0" VerticalAlignment="Top" Width="114" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.Column="1" Grid.Row="2" Grid.RowSpan="2"/>
+                    <TextBlock x:Name="Text_BrandName" Grid.Column="2" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="30" Margin="0,23,64,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.RowSpan="2"/>
+                    <TextBlock x:Name="Text_TotalKilometer" Grid.Column="2" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="30" Margin="0,25,128,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.RowSpan="2"/>
+                    <TextBlock x:Name="Text_TotalHours" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="30" Margin="0,25,112,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.Column="1" Grid.RowSpan="2"/>
+                    <TextBlock x:Name="Text_NumberBadPart" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="30" Margin="0,24,114,0" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.RowSpan="2"/>
+                    <TextBlock x:Name="Text_DeviceName" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="30" Margin="0,23,72,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.RowSpan="2"/>
+                    <TextBlock x:Name="Text_ModelName" Grid.Column="1" FlowDirection="RightToLeft" HorizontalAlignment="Right" Height="30" Margin="0,23,53,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" FontFamily="B Nazanin" FontSize="16" FontWeight="Bold" Grid.RowSpan="2"/>
+                    <Border Background="GhostWhite" BorderBrush="DodgerBlue" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Stretch" Grid.RowSpan="3" BorderThickness="2,2,2,2" Margin="0,5,-172,8" Grid.Row="1">
+
+                        <StackPanel x:Name="ImageDevice" Background="Transparent" Margin="0,1,0,-5"  />
+                    </Border>
+                    <Rectangle Margin="80,24,-176,3" Grid.RowSpan="4" Grid.Column="0" Grid.ColumnSpan="3" Fill="#FFF4F4F5" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  RadiusY="5" RadiusX="4"  Stroke="Black" StrokeThickness="0.8"   Panel.ZIndex="-1"/>
+
+                </Grid>
+
+                <TabControl   Grid.Row="1" x:Name="Tab_ShowProfile"  Grid.Column="0" Grid.ColumnSpan="2" FlowDirection="RightToLeft">
+                    <TabItem Header="سرویس های بازدید(ساعت)" Cursor="Hand"  Tag="ProfileGrid_ProgramServiceTime" MouseLeftButtonUp="Function_TabSelect_Print" FontFamily="B nazanin" FontWeight="Bold" FontSize="16" Margin="0" >
+
+                        <DataGrid IsReadOnly="true" x:Name="ProfileGrid_ProgramServiceTime" AutoGenerateColumns="False" FontFamily="B nazanin"  FontSize="18px"  FontWeight="Normal"  CanUserAddRows="False" FlowDirection="RightToLeft" Grid.Column="1" Grid.Row="3" ColumnWidth="auto" Margin="0,0,0,33" >
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+
+                                <DataGridTextColumn MinWidth="195" Width="*" Header="عنوان بازدید" Binding="{Binding ServiceTitle}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <!-- <DataGridTextColumn MinWidth="40" Width="*" Header="میزان کارکرد" Binding="{Binding function_service}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="کارکردکل" Binding="{Binding totalwork}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>-->
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="تاریخ ایجاد" Binding="{Binding CreatDate}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="ساعت ایجاد" Binding="{Binding CreatTime}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="وضعیت تایید" Binding="{Binding Status}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="ضمیمه شدن فایل" Binding="{Binding AttachFile}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTemplateColumn  MaxWidth="50"   Header="نمایش" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="{Binding CreatServiceCode}" Click="ShowAttachFile"   Cursor="Hand" >
+                                                    <Button.Background>
+                                                        <ImageBrush  ImageSource="images\show.png"/>
+                                                    </Button.Background>
+                                                </Button>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                    </TabItem>
+                    <TabItem Header="سرویس های بازدید(کیلومتر)" Cursor="Hand"  Tag="ProfileGrid_ProgramServiceKilometer" MouseLeftButtonUp="Function_TabSelect_Print" FontFamily="B nazanin" FontWeight="Bold" FontSize="16" Margin="-2,0" >
+
+                        <DataGrid IsReadOnly="true" x:Name="ProfileGrid_ProgramServiceKilometer" AutoGenerateColumns="False" FontFamily="B nazanin"  FontSize="18px" FontWeight="Normal"  CanUserAddRows="False" FlowDirection="RightToLeft" Grid.Column="1" Grid.Row="3" ColumnWidth="auto" >
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+
+                                <DataGridTextColumn MinWidth="195" Width="*" Header="عنوان بازدید" Binding="{Binding ServiceTitle}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <!--  <DataGridTextColumn MinWidth="40" Width="*" Header="میزان کارکرد" Binding="{Binding function_service}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="کارکرد کل" Binding="{Binding totalwork}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>-->
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="تاریخ ایجاد" Binding="{Binding CreatDate}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="ساعت ایجاد" Binding="{Binding CreatTime}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="وضعیت تایید" Binding="{Binding Status}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="ضمیمه شدن فایل" Binding="{Binding AttachFile}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTemplateColumn  MaxWidth="50"   Header="نمایش" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="{Binding CreatsSrviceCode}" Click="ShowAttachFile"   Cursor="Hand" >
+                                                    <Button.Background>
+                                                        <ImageBrush  ImageSource="images\show.png"/>
+                                                    </Button.Background>
+                                                </Button>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                    </TabItem>
+                    <TabItem Header="سرویس های قطعات"  Tag="ProfileGrid_ProgramPart" Cursor="Hand" FontFamily="B nazanin" MouseLeftButtonUp="Function_TabSelect_Print" FontWeight="Bold" FontSize="16" Margin="-2,0" >
+
+                        <DataGrid IsReadOnly="true" Grid.Column="0" Grid.Row="3" AutoGenerateColumns="False" CanUserAddRows="False" FontFamily="B nazanin" FontSize="18px" FontWeight="Normal" FlowDirection="RightToLeft" ItemsSource="{Binding}" x:Name="ProfileGrid_ProgramPart">
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn MinWidth="160" Width="*" Header="نام قطعه" Binding="{Binding PartName}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <!--  <DataGridTextColumn MinWidth="40" Width="*" Header="میزان کارکرد" Binding="{Binding function_lot}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="کارکردکل" Binding="{Binding totalwork}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>-->
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="نوع فعالیت" Binding="{Binding TypeActivity}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="70" Width="*" Header="تاریخ ایجاد" Binding="{Binding CreateDate}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="70" Width="*" Header="ساعت ایجاد" Binding="{Binding CreateTime}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                                <DataGridTextColumn MinWidth="70" Width="*" Header="وضعیت تایید" Binding="{Binding Status}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                    </TabItem>
+                    <TabItem Header="خرابی قطعه"  Tag="ProfileGrid_BadPart" Cursor="Hand" FontFamily="B nazanin" FontWeight="Bold" MouseLeftButtonUp="Function_TabSelect_Print" FontSize="16" Margin="-2,0" >
+
+                        <DataGrid IsReadOnly="true" Grid.Column="0" Grid.Row="3"  HorizontalAlignment="Right" AutoGenerateColumns="False" CanUserAddRows="False" FontFamily="B nazanin" FontSize="18px" FontWeight="Normal" FlowDirection="RightToLeft" ItemsSource="{Binding}" x:Name="ProfileGrid_BadPart">
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn MinWidth="160" Width="*" Header="نام قطعه" Binding="{Binding PartName}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="تاریخ خرابی" Binding="{Binding BadDate}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="ساعت خرابی" Binding="{Binding BadTime}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="تاریخ تعمیر" Binding="{Binding RepairDate}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="ساعت تعمیر" Binding="{Binding RepairTime}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="نوع فعالیت" Binding="{Binding TypeActivity}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="TextBlock">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                    </TabItem>
+                    <TabItem Header="رویدادها" Cursor="Hand" Tag="ProfileGrid_EventRule" FontFamily="B nazanin" FontWeight="Bold" MouseLeftButtonUp="Function_TabSelect_Print" FontSize="16" Margin="-2,0" >
+
+                        <DataGrid IsReadOnly="true" AutoGenerateColumns="False" CanUserAddRows="False" FontFamily="B nazanin" FontSize="18px" FontWeight="Normal" FlowDirection="RightToLeft" ItemsSource="{Binding}" x:Name="ProfileGrid_EventRule">
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn MinWidth="160" Width="*" Header="نام رویداد" Binding="{Binding EventRuleName}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="متن رویداد" Binding="{Binding EventRuleText}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="تاریخ " Binding="{Binding Date}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="ساعت " Binding="{Binding Time}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                              <DataGridTextColumn MinWidth="75" Width="*" Header="مقدار" Binding="{Binding ShapeName}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                
+                                  
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="نام راننده" Binding="{Binding DriverName}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter  Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                
+
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+
+
+                    </TabItem>
+
+                    <TabItem  Cursor="Hand" FontFamily="B nazanin" Tag="ProfileGrid_DeviceStatus" Header="وضعیت های دستگاه" MouseLeftButtonUp="Function_TabSelect_Print" FontWeight="Bold" FontSize="16" Margin="-2,0"  >
+
+
+                        <DataGrid IsReadOnly="true" AutoGenerateColumns="False" CanUserAddRows="False"  FontFamily="B nazanin" FontSize="18px" FontWeight="Normal"    FlowDirection="RightToLeft" ItemsSource="{Binding}" x:Name="ProfileGrid_DeviceStatus"   >
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn MinWidth="160" Width="*" Header="کد دستگاه" Binding="{Binding DeviceCode}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*"  Binding="{Binding Status}">
+                                    <DataGridTextColumn.Header>
+                                        <StackPanel  Orientation="Horizontal">
+                                            <ComboBox x:Name="Com_ListStatus"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="175" FontFamily="B nazanin" FontWeight="Bold" FontSize="16" DropDownClosed="Com_ListStatus_DropDownClosed"   />
+                                        </StackPanel>
+                                    </DataGridTextColumn.Header>
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                              <!--  <DataGridTextColumn MinWidth="75" Width="*" Header="نوع دسترسی" Binding="{Binding typeaccess}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn> -->
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="ساعت" Binding="{Binding Time}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="70" Width="*" Header="تاریخ " Binding="{Binding Date}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+
+
+
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+
+
+                    </TabItem>
+                    <TabItem Header="برنامه های تعریف شده(ساعت)" Cursor="Hand" Tag="ProfileGrid_DefineProgramServiceTime" MouseLeftButtonUp="Function_TabSelect_Print" FontFamily="B nazanin" FontWeight="Bold" FontSize="16" Margin="-2,0" >
+                        <DataGrid IsReadOnly="true" x:Name="ProfileGrid_DefineProgramServiceTime" FocusVisualStyle="{x:Null}"  AutoGenerateColumns="False" FontFamily="B nazanin"  FontSize="18px" FontWeight="Normal"  CanUserAddRows="False" FlowDirection="RightToLeft" ColumnWidth="auto" >
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+
+                                <DataGridTextColumn MinWidth="195" Width="*" Header="عنوان بازدید" Binding="{Binding Title}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="مقدار دوره" Binding="{Binding Value}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+
+                                <DataGridTextColumn MinWidth="40" Width="*"  Header="ضمیمه شدن فایل" Binding="{Binding AttachFile}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+
+                                </DataGridTextColumn>
+                                <DataGridTemplateColumn  MaxWidth="50"   Header="نمایش" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="{Binding DefineServiceCycleCode}" Click="show_file_profile"  Cursor="Hand" >
+                                                    <Button.Background>
+                                                        <ImageBrush  ImageSource="images\show.png"/>
+                                                    </Button.Background>
+                                                </Button>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </TabItem>
+                    <TabItem Header="برنامه های تعریف شده(کیلومتر)" Cursor="Hand"  Tag="ProfileGrid_DefineProgramServiceKilometer" MouseLeftButtonUp="Function_TabSelect_Print" FontFamily="B nazanin" FontWeight="Bold" FontSize="16" Margin="-2,0" >
+                        <DataGrid IsReadOnly="true" x:Name="ProfileGrid_DefineProgramServiceKilometer" AutoGenerateColumns="False" FontFamily="B nazanin"  FontSize="18px" FontWeight="Normal"  CanUserAddRows="False" FlowDirection="RightToLeft" ColumnWidth="auto" >
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+
+                                <DataGridTextColumn MinWidth="195" Width="*" Header="عنوان بازدید" Binding="{Binding Title}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="مقدار دوره" Binding="{Binding Value}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="ضمیمه شدن فایل" Binding="{Binding AttachFile}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTemplateColumn  MaxWidth="50"   Header="نمایش" >
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Margin="0,0,0,0" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" >
+                                                <Button FontSize="13" x:Name="btn_edit" FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="{Binding DefineServiceCycleCode}" Click="show_file_profile"  Cursor="Hand" >
+                                                    <Button.Background>
+                                                        <ImageBrush  ImageSource="images\show.png"/>
+                                                    </Button.Background>
+                                                </Button>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </TabItem>
+                    <TabItem Header="برنامه های تعریف شده قطعات" Cursor="Hand" Tag="ProfileGrid_DefineProgramPart" MouseLeftButtonUp="Function_TabSelect_Print" FontFamily="B nazanin" FontWeight="Bold" FontSize="16" Margin="-2,0" >
+                        <DataGrid IsReadOnly="true" x:Name="ProfileGrid_DefineProgramPart" AutoGenerateColumns="False" FontFamily="B nazanin"  FontSize="18px" FontWeight="Normal"  CanUserAddRows="False" FlowDirection="RightToLeft" ColumnWidth="auto" >
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+
+                                <DataGridTextColumn MinWidth="195" Width="*" Header="نام قطعه" Binding="{Binding PartName}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="نوع دوره" Binding="{Binding CycleType}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="مقدار دوره" Binding="{Binding Value}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="نوع فعالیت" Binding="{Binding TypeActivity}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="گروه تعمیرات" Binding="{Binding GroupRepair}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+
+
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </TabItem>
+
+                    <TabItem Header="آلارم ها" Cursor="Hand" Tag="ProfileGrid_Alarm" FontFamily="B nazanin" FontWeight="Bold" MouseLeftButtonUp="Function_TabSelect_Print" FontSize="16" Margin="-2,0" >
+
+                        <DataGrid IsReadOnly="true" AutoGenerateColumns="False" CanUserAddRows="False" FontFamily="B nazanin" FontSize="18px" FontWeight="Normal" FlowDirection="RightToLeft" ItemsSource="{Binding}" x:Name="ProfileGrid_Alaram">
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="{x:Type DataGridColumnHeader}">
+
+                                    <Setter Property="FontSize" Value="16px"/>
+                                    <Setter Property="FontWeight" Value="Bold" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+                            <DataGrid.Columns>
+                                <DataGridTextColumn MinWidth="160" Width="*" Header="نام دستگاه" Binding="{Binding DeviceName}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                 <DataGridTextColumn MinWidth="175" Width="*"  Binding="{Binding Symbole}">
+                                    <DataGridTextColumn.Header>
+                                        <StackPanel  Orientation="Horizontal">
+                                            <ComboBox x:Name="Com_ListAlarm"  VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Width="170" FontFamily="B nazanin" FontWeight="Bold" FontSize="16" DropDownClosed="Com_ListAlarm_DropDownClosed"   />
+                                        </StackPanel>
+                                    </DataGridTextColumn.Header>
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                
+                            <!--    <DataGridTextColumn MinWidth="75" Width="*" Header="نوع آلارم" Binding="{Binding Symbole}">                                       
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn> -->
+                                <DataGridTextColumn MinWidth="40" Width="*" Header="تاریخ شروع" Binding="{Binding StartDate}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="تاریخ پایان" Binding="{Binding EndDate}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="ساعت شروع" Binding="{Binding StartTime}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                               
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="ساعت پایان" Binding="{Binding EndTime}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="تعداد روز آلارم" Binding="{Binding DurationDay}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                <DataGridTextColumn MinWidth="75" Width="*" Header="مدت زمان آلارم" Binding="{Binding Duration}">
+                                    <DataGridTextColumn.ElementStyle>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Setter Property="HorizontalAlignment" Value="Center" />
+                                        </Style>
+                                    </DataGridTextColumn.ElementStyle>
+                                </DataGridTextColumn>
+                                
+                                
+                         
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+
+
+                    </TabItem>
+
+
+
+                </TabControl>
+                <Border Grid.Row="1" HorizontalAlignment="Stretch" BorderBrush="SkyBlue"  Margin="2,0,2,0" Background="Snow" BorderThickness="2,2,2,2" VerticalAlignment="Bottom" Height="35" Grid.ColumnSpan="2" >
+                   
+                   
+                  <StackPanel Grid.Row="1" Orientation="Horizontal"   Margin="6,0,6,2" HorizontalAlignment="Left" VerticalAlignment="Center"  Height="24" Grid.ColumnSpan="2">
+                        <Button FontSize="13" x:Name="btn_print"  FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="print" Click="ReportProfile"  Cursor="Hand" >
+                            <Button.Background>
+                                <ImageBrush  ImageSource="images\print.png"/>
+                            </Button.Background>
+                        </Button>
+
+                        <Button FontSize="13"  x:Name="btn_expotpdf" FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="exportpdf" Click="ReportProfile"  Cursor="Hand" >
+                            <Button.Background>
+                                <ImageBrush  ImageSource="images\exportpdf.png"/>
+                            </Button.Background>
+                        </Button>
+
+                        <Button FontSize="13"  x:Name="btn_expotword" FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="exportword" Click="ReportProfile"  Cursor="Hand" >
+                            <Button.Background>
+                                <ImageBrush  ImageSource="images\exportword.png"/>
+                            </Button.Background>
+                        </Button>
+
+                        <Button FontSize="13"  x:Name="btn_expotexcel" FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="exportexcel" Click="ReportProfile"  Cursor="Hand" >
+                            <Button.Background>
+                                <ImageBrush  ImageSource="images\excel.png"/>
+
+                            </Button.Background>
+                        </Button>
+
+                        <Button FontSize="13"  x:Name="btn_Filter" FontFamily="tahoma" FocusVisualStyle="{DynamicResource MyFocusVisual}"  Style="{DynamicResource btn_editdelete}" Tag="exportexcel" Click="FilterGrid"  Cursor="Hand" >
+                            <Button.Background>
+                                <ImageBrush  ImageSource="images\Filter.png"/>
+
+                            </Button.Background>
+                        </Button>
+
+
+                    </StackPanel> 
+                </Border>
+            </Grid>
+
+
+
+        </Grid>
+
+
+       
+
+
+
+    </Grid>
+
+
+</Window>

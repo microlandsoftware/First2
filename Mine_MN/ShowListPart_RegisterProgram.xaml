@@ -1,0 +1,67 @@
+﻿<Window x:Class="maintenance.ShowListPart_RegisterProgram"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="انتخاب قطعات" Height="738" Width="985.522" Background="#FFE1E9F1" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid ShowGridLines="false">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:Name="Text_PartName"  FlowDirection="RightToLeft" HorizontalAlignment="Left" Height="24" Margin="643,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="Text_PartName_TextChanged" FontFamily="B Nazanin" FontSize="14" FontWeight="Bold"/>
+        <DataGrid IsReadOnly="true" x:Name="Grid_ShowPart"  AutoGenerateColumns="False" CanUserAddRows="False" FlowDirection="RightToLeft" ItemsSource="{Binding}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="5,80,5,10" Grid.RowSpan="2" FontFamily="B Nazanin" FontSize="16">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="FontWeight"  Value="Bold" />
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+            <DataGrid.Columns >
+                <DataGridTextColumn  Header="نام قطعه" Width="*" MinWidth="230" Binding="{Binding PartName}" >
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn  Header="مدل قطعه" Width="*" MinWidth="200" Binding="{Binding PartModel}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="کشور سازنده" Width="*" MinWidth="165"  Binding="{Binding Country}">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="HorizontalAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+               
+                <DataGridTemplateColumn MinWidth="50"  Header="برنامه قطعات" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                                <Button FontSize="13" x:Name="btn_seting" FontFamily="tahoma" Click="showform"  Style="{DynamicResource btn_editdelete}" Tag="{Binding PartCode}"  Cursor="Hand" >
+                                    <Button.Background>
+                                        <ImageBrush ImageSource="images/program.png"/>
+                                    </Button.Background>
+                                </Button>
+
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+
+        </DataGrid>
+        <Label Content=":نام قطعه" HorizontalAlignment="Left" Height="30" Margin="852,24,0,0" VerticalAlignment="Top" Width="67" FontFamily="B Nazanin" FontSize="17" FontWeight="Bold"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="48" Margin="601,16,0,0" Stroke="Black" VerticalAlignment="Top" Width="357" RadiusY="5" RadiusX="4" StrokeThickness="0.8" Panel.ZIndex="-1"/>
+
+    </Grid>
+</Window>

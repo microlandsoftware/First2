@@ -1,0 +1,2179 @@
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\maintenance.exe.config
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\maintenance.exe
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\maintenance.pdb
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Expression.Drawing.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Expression.Effects.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Expression.Interactions.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\System.Windows.Interactivity.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Expression.Drawing.xml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Expression.Effects.xml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Expression.Interactions.xml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\System.Windows.Interactivity.xml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ActiveService_Kilometer.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ActiveService_Time.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\AddWorking.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Alarm.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\FilterGrid.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\LoginForm.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterSpecialService.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowListDevice_ChangeStatus.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterChangeStatus_Device.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowListDevice_ShowProfile.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Loading.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\MessageBox_ConfirmService.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\MessageBox_SelectForm.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\PrintProfile.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowListPart_RegisterProgram.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterProgramService.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterGroup.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterPart.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterChangeList_DeviceStauts.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterProgramingPart.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterExchangePart.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ReportBadPart.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ReportProgramPart.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ReportProgramService.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ReportSetting.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Resourcebtn_editdelete.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Resourcebtn_paging.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Setting.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowStatusDevice.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowStatusDevice_TypeDevice.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowListPart_ExchangePart.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Simple Styles.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\HardwareStatus.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Templates\DynamicReport.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Templates\template_report.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowDevice_ExchangePart.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\App.baml
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ActiveService_Kilometer.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ActiveService_Time.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\AddWorking.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Alarm.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\FilterGrid.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\LoginForm.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterSpecialService.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowListDevice_ChangeStatus.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterChangeStatus_Device.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowListDevice_ShowProfile.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Loading.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\MessageBox_ConfirmService.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\MessageBox_SelectForm.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\PrintProfile.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowListPart_RegisterProgram.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterProgramService.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterGroup.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterPart.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterProgramingPart.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\RegisterExchangePart.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ReportBadPart.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ReportProgramPart.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ReportProgramService.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ReportSetting.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\Setting.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowStatusDevice.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowListPart_ExchangePart.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\HardwareStatus.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\ShowDevice_ExchangePart.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\maintenance_MarkupCompile.cache
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\maintenance.g.resources
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\maintenance.exe
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\WpfApplication1\obj\Release\maintenance.pdb
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\Mine_MN\bin\Release\maintenance.exe.config
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\Mine_MN\obj\Release\maintenance.exe
+D:\Project\Original Project\Mine Projects\net-1394-03-07\New folder\WpfApplication1\Mine_MN\obj\Release\maintenance.pdb
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\maintenance.exe.config
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\maintenance.exe
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\maintenance.pdb
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\maintenance.exe
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\maintenance.pdb
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ActiveService_Time.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\AddWorking.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Alarm.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\FilterGrid.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\LoginForm.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterSpecialService.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Loading.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MainWindow.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\PrintProfile.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterProgramService.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterGroup.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterPart.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterProgramingPart.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterExchangePart.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportBadPart.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportProgramPart.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportProgramService.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportSetting.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Resourcebtn_paging.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Setting.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowStatusDevice.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Simple Styles.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\HardwareStatus.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Templates\DynamicReport.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Templates\template_report.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\App.baml
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ActiveService_Time.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\AddWorking.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Alarm.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\FilterGrid.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\LoginForm.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Loading.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MainWindow.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\PrintProfile.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterProgramService.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterGroup.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterPart.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportBadPart.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportProgramPart.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportProgramService.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportSetting.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Setting.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\HardwareStatus.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\App.g.cs
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+D:\1394-02-28\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\maintenance.g.resources
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\maintenance.exe.config
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\maintenance.exe
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\maintenance.pdb
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\maintenance.exe
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\maintenance.pdb
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ActiveService_Time.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\AddWorking.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Alarm.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\FilterGrid.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\LoginForm.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterSpecialService.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Loading.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MainWindow.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\PrintProfile.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterProgramService.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterGroup.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterPart.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterProgramingPart.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterExchangePart.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportBadPart.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportProgramPart.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportProgramService.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportSetting.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Resourcebtn_paging.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Setting.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowStatusDevice.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Simple Styles.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\HardwareStatus.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Templates\DynamicReport.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Templates\template_report.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\App.baml
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ActiveService_Time.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\AddWorking.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Alarm.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\FilterGrid.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\LoginForm.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Loading.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MainWindow.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\PrintProfile.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterProgramService.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterGroup.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterPart.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportBadPart.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportProgramPart.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportProgramService.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ReportSetting.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\Setting.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\HardwareStatus.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\App.g.cs
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+D:\1394-03-27\net-1394-03-07\New folder\MIne_MN\Mine_MN\obj\Release\maintenance.g.resources
+D:\1394-04-08\Sources\net\Mine_MN\bin\Release\maintenance.exe.config
+D:\1394-04-08\Sources\net\Mine_MN\obj\Release\maintenance.exe
+D:\1394-04-08\Sources\net\Mine_MN\obj\Release\maintenance.pdb
+E:\net\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+E:\net\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+E:\net\Mine_MN\obj\Release\ActiveService_Time.baml
+E:\net\Mine_MN\obj\Release\AddWorking.baml
+E:\net\Mine_MN\obj\Release\Alarm.baml
+E:\net\Mine_MN\obj\Release\FilterGrid.baml
+E:\net\Mine_MN\obj\Release\LoginForm.baml
+E:\net\Mine_MN\obj\Release\RegisterSpecialService.baml
+E:\net\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+E:\net\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+E:\net\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+E:\net\Mine_MN\obj\Release\Loading.baml
+E:\net\Mine_MN\obj\Release\MainWindow.baml
+E:\net\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+E:\net\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+E:\net\Mine_MN\obj\Release\PrintProfile.baml
+E:\net\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+E:\net\Mine_MN\obj\Release\RegisterProgramService.baml
+E:\net\Mine_MN\obj\Release\RegisterGroup.baml
+E:\net\Mine_MN\obj\Release\RegisterPart.baml
+E:\net\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+E:\net\Mine_MN\obj\Release\RegisterProgramingPart.baml
+E:\net\Mine_MN\obj\Release\RegisterExchangePart.baml
+E:\net\Mine_MN\obj\Release\ReportBadPart.baml
+E:\net\Mine_MN\obj\Release\ReportProgramPart.baml
+E:\net\Mine_MN\obj\Release\ReportProgramService.baml
+E:\net\Mine_MN\obj\Release\ReportSetting.baml
+E:\net\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+E:\net\Mine_MN\obj\Release\Resourcebtn_paging.baml
+E:\net\Mine_MN\obj\Release\Setting.baml
+E:\net\Mine_MN\obj\Release\ShowStatusDevice.baml
+E:\net\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+E:\net\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+E:\net\Mine_MN\obj\Release\Simple Styles.baml
+E:\net\Mine_MN\obj\Release\HardwareStatus.baml
+E:\net\Mine_MN\obj\Release\Templates\DynamicReport.baml
+E:\net\Mine_MN\obj\Release\Templates\template_report.baml
+E:\net\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+E:\net\Mine_MN\obj\Release\App.baml
+E:\net\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+E:\net\Mine_MN\obj\Release\ActiveService_Time.g.cs
+E:\net\Mine_MN\obj\Release\AddWorking.g.cs
+E:\net\Mine_MN\obj\Release\Alarm.g.cs
+E:\net\Mine_MN\obj\Release\FilterGrid.g.cs
+E:\net\Mine_MN\obj\Release\LoginForm.g.cs
+E:\net\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+E:\net\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+E:\net\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+E:\net\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+E:\net\Mine_MN\obj\Release\Loading.g.cs
+E:\net\Mine_MN\obj\Release\MainWindow.g.cs
+E:\net\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+E:\net\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+E:\net\Mine_MN\obj\Release\PrintProfile.g.cs
+E:\net\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+E:\net\Mine_MN\obj\Release\RegisterProgramService.g.cs
+E:\net\Mine_MN\obj\Release\RegisterGroup.g.cs
+E:\net\Mine_MN\obj\Release\RegisterPart.g.cs
+E:\net\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+E:\net\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+E:\net\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+E:\net\Mine_MN\obj\Release\ReportBadPart.g.cs
+E:\net\Mine_MN\obj\Release\ReportProgramPart.g.cs
+E:\net\Mine_MN\obj\Release\ReportProgramService.g.cs
+E:\net\Mine_MN\obj\Release\ReportSetting.g.cs
+E:\net\Mine_MN\obj\Release\Setting.g.cs
+E:\net\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+E:\net\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+E:\net\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+E:\net\Mine_MN\obj\Release\HardwareStatus.g.cs
+E:\net\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+E:\net\Mine_MN\obj\Release\App.g.cs
+E:\net\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+E:\net\Mine_MN\obj\Release\maintenance.g.resources
+E:\net\Mine_MN\bin\Release\maintenance.exe.config
+E:\net\Mine_MN\bin\Release\maintenance.exe
+E:\net\Mine_MN\bin\Release\maintenance.pdb
+E:\net\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+E:\net\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+E:\net\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+E:\net\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+E:\net\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+E:\net\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+E:\net\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+E:\net\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+E:\net\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+E:\net\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+E:\net\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+E:\net\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+E:\net\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\net\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\net\Mine_MN\obj\Release\maintenance.exe
+E:\net\Mine_MN\obj\Release\maintenance.pdb
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\maintenance.exe.config
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\maintenance.exe
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\maintenance.pdb
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\maintenance.exe
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\maintenance.pdb
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ActiveService_Time.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\AddWorking.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Alarm.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\FilterGrid.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\LoginForm.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterSpecialService.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Loading.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\MainWindow.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\PrintProfile.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterProgramService.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterGroup.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterPart.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterProgramingPart.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterExchangePart.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ReportBadPart.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ReportProgramPart.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ReportProgramService.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ReportSetting.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Resourcebtn_paging.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Setting.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowStatusDevice.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Simple Styles.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\HardwareStatus.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Templates\DynamicReport.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Templates\template_report.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\App.baml
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ActiveService_Time.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\AddWorking.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Alarm.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\FilterGrid.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\LoginForm.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Loading.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\MainWindow.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\PrintProfile.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterProgramService.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterGroup.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterPart.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ReportBadPart.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ReportProgramPart.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ReportProgramService.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ReportSetting.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\Setting.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\HardwareStatus.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\App.g.cs
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+C:\Users\Developers\Desktop\net -edit shode\Mine_MN\obj\Release\maintenance.g.resources
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\maintenance.exe.config
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\maintenance.exe
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\maintenance.pdb
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\maintenance.exe
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\maintenance.pdb
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\ADODB.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ActiveService_Time.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\AddWorking.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Alarm.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\FilterGrid.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\LoginForm.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterSpecialService.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Loading.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\MainWindow.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\PrintProfile.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterProgramService.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterGroup.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterPart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterProgramingPart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterExchangePart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ReportBadPart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ReportProgramPart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ReportProgramService.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ReportSetting.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Resourcebtn_paging.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Setting.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowStatusDevice.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Simple Styles.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\HardwareStatus.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Templates\DynamicReport.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Templates\template_report.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\App.baml
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ActiveService_Time.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\AddWorking.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Alarm.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\FilterGrid.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\LoginForm.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Loading.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\MainWindow.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\PrintProfile.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterProgramService.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterGroup.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterPart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ReportBadPart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ReportProgramPart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ReportProgramService.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ReportSetting.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\Setting.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\HardwareStatus.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\App.g.cs
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+D:\Original\Mine\net fianl\Mine_MN\obj\Release\maintenance.g.resources
+E:\net final\net fianl\Mine_MN\bin\Release\maintenance.exe.config
+E:\net final\net fianl\Mine_MN\obj\Release\maintenance.exe
+E:\net final\net fianl\Mine_MN\obj\Release\maintenance.pdb
+E:\net final\net fianl\Mine_MN\bin\Release\maintenance.exe
+E:\net final\net fianl\Mine_MN\bin\Release\maintenance.pdb
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+E:\net final\net fianl\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+E:\net final\net fianl\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+E:\net final\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+E:\net final\net fianl\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\net final\net fianl\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+E:\net final\net fianl\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ActiveService_Time.baml
+E:\net final\net fianl\Mine_MN\obj\Release\AddWorking.baml
+E:\net final\net fianl\Mine_MN\obj\Release\Alarm.baml
+E:\net final\net fianl\Mine_MN\obj\Release\FilterGrid.baml
+E:\net final\net fianl\Mine_MN\obj\Release\LoginForm.baml
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterSpecialService.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+E:\net final\net fianl\Mine_MN\obj\Release\Loading.baml
+E:\net final\net fianl\Mine_MN\obj\Release\MainWindow.baml
+E:\net final\net fianl\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+E:\net final\net fianl\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+E:\net final\net fianl\Mine_MN\obj\Release\PrintProfile.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterProgramService.baml
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterGroup.baml
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterPart.baml
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterProgramingPart.baml
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterExchangePart.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ReportBadPart.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ReportProgramPart.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ReportProgramService.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ReportSetting.baml
+E:\net final\net fianl\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+E:\net final\net fianl\Mine_MN\obj\Release\Resourcebtn_paging.baml
+E:\net final\net fianl\Mine_MN\obj\Release\Setting.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ShowStatusDevice.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+E:\net final\net fianl\Mine_MN\obj\Release\Simple Styles.baml
+E:\net final\net fianl\Mine_MN\obj\Release\HardwareStatus.baml
+E:\net final\net fianl\Mine_MN\obj\Release\Templates\DynamicReport.baml
+E:\net final\net fianl\Mine_MN\obj\Release\Templates\template_report.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+E:\net final\net fianl\Mine_MN\obj\Release\App.baml
+E:\net final\net fianl\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ActiveService_Time.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\AddWorking.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\Alarm.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\FilterGrid.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\LoginForm.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\Loading.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\MainWindow.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\PrintProfile.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterProgramService.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterGroup.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterPart.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ReportBadPart.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ReportProgramPart.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ReportProgramService.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ReportSetting.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\Setting.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\HardwareStatus.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\App.g.cs
+E:\net final\net fianl\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+E:\net final\net fianl\Mine_MN\obj\Release\maintenance.g.resources
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\maintenance.exe.config
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\maintenance.exe
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\maintenance.pdb
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\maintenance.exe
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\maintenance.pdb
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ActiveService_Time.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\AddWorking.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Alarm.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\FilterGrid.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\LoginForm.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterSpecialService.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Loading.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\MainWindow.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\PrintProfile.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterProgramService.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterGroup.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterPart.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterProgramingPart.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterExchangePart.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ReportBadPart.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ReportProgramPart.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ReportProgramService.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ReportSetting.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Resourcebtn_paging.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Setting.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowStatusDevice.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Simple Styles.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\HardwareStatus.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Templates\DynamicReport.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Templates\template_report.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\App.baml
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ActiveService_Time.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\AddWorking.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Alarm.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\FilterGrid.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\LoginForm.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Loading.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\MainWindow.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\PrintProfile.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterProgramService.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterGroup.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterPart.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ReportBadPart.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ReportProgramPart.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ReportProgramService.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ReportSetting.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\Setting.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\HardwareStatus.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\App.g.cs
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+E:\net final New -1394-07-07\net fianl\Mine_MN\obj\Release\maintenance.g.resources
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\maintenance.exe.config
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\maintenance.exe
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\maintenance.pdb
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\maintenance.exe
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\maintenance.pdb
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Base.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.BlackTheme.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Design.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.Design.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Base.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ActiveService_Time.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\AddWorking.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Alarm.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\FilterGrid.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\LoginForm.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterSpecialService.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Loading.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\MainWindow.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\PrintProfile.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterProgramService.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterGroup.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterPart.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterProgramingPart.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterExchangePart.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ReportBadPart.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ReportProgramPart.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ReportProgramService.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ReportSetting.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Resourcebtn_paging.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Setting.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowStatusDevice.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Simple Styles.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\HardwareStatus.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Templates\DynamicReport.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Templates\template_report.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\App.baml
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ActiveService_Time.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\AddWorking.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Alarm.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\FilterGrid.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\LoginForm.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Loading.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\MainWindow.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\PrintProfile.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterProgramService.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterGroup.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterPart.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ReportBadPart.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ReportProgramPart.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ReportProgramService.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ReportSetting.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\Setting.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\HardwareStatus.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\App.g.cs
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+E:\backup\1394-07-08\net final New -1394-07-08\net fianl\Mine_MN\obj\Release\maintenance.g.resources
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\maintenance.exe.config
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\maintenance.exe
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\maintenance.pdb
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\maintenance.exe
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\maintenance.pdb
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\System.Windows.Controls.Ribbon.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\ADODB.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Base.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Report.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\System.Windows.Controls.Ribbon.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ActiveService_Time.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\AddWorking.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Alarm.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\FilterGrid.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\LoginForm.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterSpecialService.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Loading.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\MainWindow.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\PrintProfile.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterProgramService.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterGroup.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterPart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterProgramingPart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterExchangePart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ReportBadPart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ReportProgramPart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ReportProgramService.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ReportSetting.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Resourcebtn_paging.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Setting.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowStatusDevice.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Simple Styles.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\HardwareStatus.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Templates\DynamicReport.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Templates\template_report.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\App.baml
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ActiveService_Time.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\AddWorking.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Alarm.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\FilterGrid.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\LoginForm.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Loading.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\MainWindow.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\PrintProfile.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterProgramService.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterGroup.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterPart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ReportBadPart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ReportProgramPart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ReportProgramService.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ReportSetting.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\Setting.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\HardwareStatus.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\App.g.cs
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+C:\Users\Mine21\Desktop\1394-07-10-v3\Mine_MN\obj\Release\maintenance.g.resources
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\maintenance.exe.config
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\maintenance.exe
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\maintenance.pdb
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\maintenance.exe
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\maintenance.pdb
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\ADODB.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Base.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Time.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\AddWorking.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Alarm.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\FilterGrid.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\LoginForm.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterSpecialService.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Loading.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\MainWindow.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\PrintProfile.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramService.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterGroup.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterPart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramingPart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterExchangePart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ReportBadPart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ReportProgramPart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ReportProgramService.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ReportSetting.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Resourcebtn_paging.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Setting.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Simple Styles.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\HardwareStatus.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Templates\DynamicReport.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Templates\template_report.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\App.baml
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Time.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\AddWorking.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Alarm.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\FilterGrid.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\LoginForm.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Loading.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\MainWindow.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\PrintProfile.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramService.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterGroup.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterPart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ReportBadPart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ReportProgramPart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ReportProgramService.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ReportSetting.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\Setting.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\HardwareStatus.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\App.g.cs
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+D:\1394-07-15\net\net 1394-07-11\Mine_MN\obj\Release\maintenance.g.resources
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\maintenance.exe.config
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\maintenance.exe
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\maintenance.pdb
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\maintenance.exe
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\maintenance.pdb
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\ADODB.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Base.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Time.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\AddWorking.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Alarm.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\FilterGrid.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\LoginForm.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterSpecialService.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Loading.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\MainWindow.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\PrintProfile.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramService.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterGroup.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterPart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramingPart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterExchangePart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ReportBadPart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ReportProgramPart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ReportProgramService.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ReportSetting.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Resourcebtn_paging.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Setting.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Simple Styles.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\HardwareStatus.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Templates\DynamicReport.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Templates\template_report.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\App.baml
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Time.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\AddWorking.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Alarm.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\FilterGrid.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\LoginForm.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Loading.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\MainWindow.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\PrintProfile.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramService.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterGroup.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterPart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ReportBadPart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ReportProgramPart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ReportProgramService.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ReportSetting.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\Setting.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\HardwareStatus.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\App.g.cs
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+F:\1394-07-20\net\net 1394-07-11\Mine_MN\obj\Release\maintenance.g.resources
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\maintenance.exe.config
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\maintenance.exe
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\maintenance.pdb
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\maintenance.exe
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\maintenance.pdb
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Base.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.BlackTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Design.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.Design.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Base.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Time.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\AddWorking.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Alarm.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\FilterGrid.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\LoginForm.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterSpecialService.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ResetWorking.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Loading.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\MainWindow.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\PrintProfile.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramService.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterGroup.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterPart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramingPart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterExchangePart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ReportBadPart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ReportProgramPart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ReportProgramService.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ReportSetting.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Resourcebtn_paging.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Setting.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Simple Styles.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\HardwareStatus.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Templates\DynamicReport.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Templates\template_report.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Window1.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\App.baml
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ActiveService_Time.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\AddWorking.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Alarm.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\FilterGrid.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\LoginForm.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ResetWorking.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Loading.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\MainWindow.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\PrintProfile.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramService.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterGroup.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterPart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ReportBadPart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ReportProgramPart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ReportProgramService.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ReportSetting.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Setting.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\HardwareStatus.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\Window1.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\App.g.cs
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+E:\backup\1394-08-09\1394-07-20\net 1394-07-11\Mine_MN\obj\Release\maintenance.g.resources
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\maintenance.exe.config
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\maintenance.exe
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\maintenance.pdb
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\maintenance.exe
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\maintenance.pdb
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Base.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.BlackTheme.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Design.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.Design.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Base.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ActiveService_Time.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\AddWorking.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Alarm.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\FilterGrid.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\LoginForm.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterSpecialService.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ResetWorking.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Loading.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\MainWindow.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\PrintProfile.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterProgramService.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterGroup.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterPart.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterProgramingPart.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterExchangePart.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ReportBadPart.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ReportProgramPart.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ReportProgramService.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ReportSetting.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Resourcebtn_paging.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Setting.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Simple Styles.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\HardwareStatus.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Templates\DynamicReport.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Templates\template_report.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Window1.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\App.baml
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ActiveService_Time.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\AddWorking.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Alarm.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\FilterGrid.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\LoginForm.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ResetWorking.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Loading.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\MainWindow.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\PrintProfile.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterProgramService.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterGroup.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterPart.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ReportBadPart.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ReportProgramPart.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ReportProgramService.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ReportSetting.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Setting.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\HardwareStatus.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\Window1.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\App.g.cs
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+E:\backup\1394-08-23\1394-08-22\Mine_MN\obj\Release\maintenance.g.resources
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\maintenance.exe.config
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\maintenance.exe
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\maintenance.pdb
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\maintenance.exe
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\maintenance.pdb
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Base.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.BlackTheme.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Design.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.Design.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Base.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Database.Wpf.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ActiveService_Time.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\AddWorking.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Alarm.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\FilterGrid.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\LoginForm.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterSpecialService.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ResetWorking.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Loading.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\MainWindow.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\PrintProfile.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterProgramService.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterGroup.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterPart.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterProgramingPart.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterExchangePart.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ReportBadPart.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ReportProgramPart.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ReportProgramService.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ReportSetting.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Resourcebtn_paging.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Setting.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Simple Styles.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\HardwareStatus.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Templates\DynamicReport.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Templates\template_report.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Window1.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\App.baml
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ActiveService_Time.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\AddWorking.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Alarm.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\FilterGrid.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\LoginForm.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ResetWorking.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Loading.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\MainWindow.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\PrintProfile.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterProgramService.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterGroup.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterPart.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ReportBadPart.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ReportProgramPart.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ReportProgramService.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ReportSetting.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Setting.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\HardwareStatus.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\Window1.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\App.g.cs
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+E:\backup\1394-09-09\1394-08-22\Mine_MN\obj\Release\maintenance.g.resources
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\maintenance.exe.config
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\maintenance.exe
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\maintenance.pdb
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Base.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.BlackTheme.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Design.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.Design.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\System.Windows.Controls.Ribbon.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Base.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\System.Windows.Controls.Ribbon.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ActiveService_Time.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\AddWorking.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Alarm.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\FilterGrid.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\LoginForm.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterSpecialService.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ResetWorking.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Loading.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\MainWindow.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\PrintProfile.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterProgramService.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterGroup.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterPart.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterProgramingPart.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterExchangePart.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ReportBadPart.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ReportProgramPart.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ReportProgramService.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ReportSetting.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Resourcebtn_paging.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Setting.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Simple Styles.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\HardwareStatus.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Templates\DynamicReport.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Templates\template_report.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Window1.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\App.baml
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ActiveService_Time.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\AddWorking.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Alarm.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\FilterGrid.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\LoginForm.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ResetWorking.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Loading.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\MainWindow.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\PrintProfile.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterProgramService.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterGroup.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterPart.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ReportBadPart.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ReportProgramPart.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ReportProgramService.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ReportSetting.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Setting.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\HardwareStatus.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\Window1.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\App.g.cs
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\maintenance.g.resources
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\maintenance.exe
+C:\Users\Mine19\Desktop\net-1394-09-20\1394-08-22\Mine_MN\obj\Release\maintenance.pdb
+C:\Users\Mine19\Desktop\net-1394-09-20-2v\1394-08-22\Mine_MN\bin\Release\maintenance.exe.config
+C:\Users\Mine19\Desktop\net-1394-09-20-2v\1394-08-22\Mine_MN\obj\Release\maintenance.exe
+C:\Users\Mine19\Desktop\net-1394-09-20-2v\1394-08-22\Mine_MN\obj\Release\maintenance.pdb
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\maintenance.exe.config
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\maintenance.exe
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\maintenance.pdb
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\maintenance.exe
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\maintenance.pdb
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\System.Windows.Controls.Ribbon.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Base.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\System.Windows.Controls.Ribbon.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ActiveService_Time.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\AddWorking.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Alarm.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\FilterGrid.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\LoginForm.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterSpecialService.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ResetWorking.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Loading.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\MainWindow.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\PrintProfile.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterProgramService.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterGroup.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterPart.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterProgramingPart.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterExchangePart.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ReportBadPart.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ReportProgramPart.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ReportProgramService.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ReportSetting.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Resourcebtn_paging.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Setting.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Simple Styles.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\HardwareStatus.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Templates\DynamicReport.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Templates\template_report.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Window1.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\App.baml
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ActiveService_Time.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\AddWorking.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Alarm.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\FilterGrid.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\LoginForm.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ResetWorking.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Loading.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\MainWindow.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\PrintProfile.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterProgramService.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterGroup.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterPart.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ReportBadPart.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ReportProgramPart.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ReportProgramService.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ReportSetting.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Setting.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\HardwareStatus.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\Window1.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\App.g.cs
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+C:\Users\Mine20\Desktop\net-1394-09-20-v2\1394-08-22\Mine_MN\obj\Release\maintenance.g.resources
+D:\1394-09-23\net\Mine_MN\bin\Release\maintenance.exe.config
+D:\1394-09-23\net\Mine_MN\obj\Release\maintenance.exe
+D:\1394-09-23\net\Mine_MN\obj\Release\maintenance.pdb
+D:\1394-09-23\net\Mine_MN\bin\Release\maintenance.exe
+D:\1394-09-23\net\Mine_MN\bin\Release\maintenance.pdb
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Expression.Drawing.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Expression.Effects.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Expression.Interactions.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Base.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.BlackTheme.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Design.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003BlueTheme.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003OliveGreenTheme.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2003SilverTheme.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlackTheme.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007BlueTheme.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2007SilverTheme.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.Office2010BlueTheme.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.Design.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\System.Windows.Interactivity.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Check.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Helper.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Expression.Drawing.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Expression.Effects.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Expression.Interactions.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Base.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Wpf.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.WpfDesign.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\System.Windows.Interactivity.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Microsoft.Windows.Design.Interaction.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Check.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\Stimulsoft.Report.Helper.xml
+D:\1394-09-23\net\Mine_MN\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\1394-09-23\net\Mine_MN\obj\Release\Mine_MN.csprojResolveAssemblyReference.cache
+D:\1394-09-23\net\Mine_MN\obj\Release\ActiveService_Kilometer.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ActiveService_Time.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\AddWorking.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Alarm.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\FilterGrid.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\LoginForm.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterSpecialService.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ResetWorking.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterChangeStatus_Device.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowListDevice_ShowProfile.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Loading.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\MainWindow.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\MessageBox_ConfirmService.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\MessageBox_SelectForm.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\PrintProfile.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowListPart_RegisterProgram.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterProgramService.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterGroup.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterPart.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterProgramingPart.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterExchangePart.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ReportBadPart.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ReportProgramPart.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ReportProgramService.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ReportSetting.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Resourcebtn_editdelete.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Resourcebtn_paging.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Setting.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowStatusDevice.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowListPart_ExchangePart.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Simple Styles.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\HardwareStatus.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Templates\DynamicReport.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Templates\template_report.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowDevice_ExchangePart.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\Window1.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\App.baml
+D:\1394-09-23\net\Mine_MN\obj\Release\ActiveService_Kilometer.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ActiveService_Time.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\AddWorking.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\Alarm.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\FilterGrid.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\LoginForm.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterSpecialService.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ResetWorking.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowListDevice_ChangeStatus.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterChangeStatus_Device.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowListDevice_ShowProfile.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\Loading.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\MainWindow.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\MessageBox_ConfirmService.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\MessageBox_SelectForm.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\PrintProfile.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowListPart_RegisterProgram.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterProgramService.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterGroup.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterPart.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterChangeList_DeviceStauts.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterProgramingPart.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\RegisterExchangePart.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ReportBadPart.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ReportProgramPart.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ReportProgramService.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ReportSetting.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\Setting.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowStatusDevice.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowStatusDevice_TypeDevice.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowListPart_ExchangePart.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\HardwareStatus.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\ShowDevice_ExchangePart.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\Window1.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\App.g.cs
+D:\1394-09-23\net\Mine_MN\obj\Release\maintenance_MarkupCompile.cache
+D:\1394-09-23\net\Mine_MN\obj\Release\maintenance.g.resources

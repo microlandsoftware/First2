@@ -32,6 +32,7 @@ namespace maintenance
         //connection string
         //i added this comment for test Git
         //i added this comment for test Git 2    
+        //i added this comment for test Git 3
         private Thread Thread;
         private static int UpdateTime;
         private bool ConnectDataBase = true;
